@@ -1,0 +1,372 @@
+[
+  {
+    "id": "gazette",
+    "name": "The Mechanical Age Gazette",
+    "handle": "@MechanicalAgeGazette",
+    "bio": "Bulletins of the great events of the age. Editorial summaries written for this feed, not a real newspaper.",
+    "role": "press",
+    "years": "Editorial",
+    "historical": false,
+    "avatar": { "initials": "G", "hue": 30 }
+  },
+  {
+    "id": "smith",
+    "name": "Adam Smith",
+    "handle": "@InvisibleHand",
+    "bio": "Late Professor of Moral Philosophy, Glasgow. Author of an Inquiry into the Nature and Causes of the Wealth of Nations.",
+    "role": "thinker",
+    "years": "1723–1790",
+    "historical": true,
+    "avatar": { "initials": "AS", "hue": 210 }
+  },
+  {
+    "id": "arkwright",
+    "name": "Richard Arkwright",
+    "handle": "@CromfordMills",
+    "bio": "Formerly a barber & wig-maker of Bolton. Patentee of the spinning engine. Proprietor of the mills at Cromford.",
+    "role": "owner",
+    "years": "1732–1792",
+    "historical": true,
+    "avatar": { "initials": "RA", "hue": 15 }
+  },
+  {
+    "id": "boulton",
+    "name": "Matthew Boulton",
+    "handle": "@SohoManufactory",
+    "bio": "Toy-maker, button-maker and engine-seller of Soho, near Birmingham. Partner of Mr Watt.",
+    "role": "owner",
+    "years": "1728–1809",
+    "historical": true,
+    "avatar": { "initials": "MB", "hue": 45 }
+  },
+  {
+    "id": "watt",
+    "name": "James Watt",
+    "handle": "@SeparateCondenser",
+    "bio": "Mathematical instrument maker, Glasgow. Improver of the fire-engine. Of a melancholy and anxious disposition.",
+    "role": "inventor",
+    "years": "1736–1819",
+    "historical": true,
+    "avatar": { "initials": "JW", "hue": 190 }
+  },
+  {
+    "id": "owen",
+    "name": "Robert Owen",
+    "handle": "@NewLanark",
+    "bio": "Cotton-spinner & manager of the New Lanark mills. Believes character is formed for man, not by him.",
+    "role": "thinker",
+    "years": "1771–1858",
+    "historical": true,
+    "avatar": { "initials": "RO", "hue": 120 }
+  },
+  {
+    "id": "ludd",
+    "name": "General Ned Ludd",
+    "handle": "@GeneralLudd",
+    "bio": "Commander of the Army of Redressers. Lives in Sherwood Forest. Nobody has ever seen him.",
+    "role": "radical",
+    "years": "fl. 1811–1813",
+    "historical": true,
+    "avatar": { "initials": "NL", "hue": 0 }
+  },
+  {
+    "id": "cropper",
+    "name": "A Huddersfield Cropper",
+    "handle": "@CropperOfColneValley",
+    "bio": "Cloth-dresser. Seven years apprenticed to the shears. Composite voice, reconstructed from Luddite-era records.",
+    "role": "worker",
+    "years": "Composite",
+    "historical": false,
+    "avatar": { "initials": "HC", "hue": 95 }
+  },
+  {
+    "id": "weaver",
+    "name": "A Bolton Hand-loom Weaver",
+    "handle": "@BoltonWeaver",
+    "bio": "Weaver of muslins at my own loom, in my own cottage. Composite voice, reconstructed from weavers' petitions and parliamentary evidence.",
+    "role": "worker",
+    "years": "Composite",
+    "historical": false,
+    "avatar": { "initials": "BW", "hue": 75 }
+  },
+  {
+    "id": "piecer",
+    "name": "A Manchester Piecer",
+    "handle": "@LittlePiecer",
+    "bio": "Aged nine. Mends broken ends on the mule. Composite voice, reconstructed from factory testimony of 1832–33.",
+    "role": "worker",
+    "years": "Composite",
+    "historical": false,
+    "avatar": { "initials": "MP", "hue": 340 }
+  },
+  {
+    "id": "navvy",
+    "name": "A Railway Navvy",
+    "handle": "@ChatMossNavvy",
+    "bio": "Excavator on the Liverpool & Manchester line. Composite voice, reconstructed from contemporary accounts of railway labour.",
+    "role": "worker",
+    "years": "Composite",
+    "historical": false,
+    "avatar": { "initials": "RN", "hue": 25 }
+  },
+  {
+    "id": "bentley",
+    "name": "Elizabeth Bentley",
+    "handle": "@ElizabethBentley",
+    "bio": "Of Leeds. Doffer in a flax mill from the age of six. Witness before Mr Sadler's Committee, 1832.",
+    "role": "worker",
+    "years": "b. c.1809",
+    "historical": true,
+    "avatar": { "initials": "EB", "hue": 300 }
+  },
+  {
+    "id": "byron",
+    "name": "Lord Byron",
+    "handle": "@LordByron",
+    "bio": "Peer, poet, Nottinghamshire landowner. Maiden speech in the Lords on the Frame-Work Bill.",
+    "role": "writer",
+    "years": "1788–1824",
+    "historical": true,
+    "avatar": { "initials": "B", "hue": 260 }
+  },
+  {
+    "id": "shelley",
+    "name": "Percy Bysshe Shelley",
+    "handle": "@ShelleyInItaly",
+    "bio": "Poet. Writing from Italy, where the news from Manchester reaches me late and makes me furious.",
+    "role": "writer",
+    "years": "1792–1822",
+    "historical": true,
+    "avatar": { "initials": "PS", "hue": 280 }
+  },
+  {
+    "id": "bamford",
+    "name": "Samuel Bamford",
+    "handle": "@MiddletonRadical",
+    "bio": "Weaver & poet of Middleton. Led the Middleton contingent to St Peter's Field. Imprisoned for it.",
+    "role": "radical",
+    "years": "1788–1872",
+    "historical": true,
+    "avatar": { "initials": "SB", "hue": 140 }
+  },
+  {
+    "id": "ricardo",
+    "name": "David Ricardo",
+    "handle": "@RicardoMP",
+    "bio": "Stockbroker, MP for Portarlington, political economist. Capable of changing his mind in print.",
+    "role": "thinker",
+    "years": "1772–1823",
+    "historical": true,
+    "avatar": { "initials": "DR", "hue": 220 }
+  },
+  {
+    "id": "southey",
+    "name": "Robert Southey",
+    "handle": "@PoetLaureate",
+    "bio": "Poet Laureate. Converses with the ghost of Sir Thomas More on the progress and prospects of society.",
+    "role": "writer",
+    "years": "1774–1843",
+    "historical": true,
+    "avatar": { "initials": "RS", "hue": 160 }
+  },
+  {
+    "id": "macaulay",
+    "name": "T. B. Macaulay",
+    "handle": "@MacaulayEdinRev",
+    "bio": "Edinburgh Reviewer, Whig MP. We rely on the natural tendency of society to improvement.",
+    "role": "optimist",
+    "years": "1800–1859",
+    "historical": true,
+    "avatar": { "initials": "TM", "hue": 200 }
+  },
+  {
+    "id": "stephenson",
+    "name": "George Stephenson",
+    "handle": "@RocketEngineer",
+    "bio": "Engine-wright of Killingworth. Engineer of the Stockton & Darlington and the Liverpool & Manchester railways.",
+    "role": "inventor",
+    "years": "1781–1848",
+    "historical": true,
+    "avatar": { "initials": "GS", "hue": 10 }
+  },
+  {
+    "id": "kemble",
+    "name": "Fanny Kemble",
+    "handle": "@FannyKemble",
+    "bio": "Actress of Covent Garden, on tour in the north. Has ridden on the engine and is a little in love with its engineer.",
+    "role": "observer",
+    "years": "1809–1893",
+    "historical": true,
+    "avatar": { "initials": "FK", "hue": 320 }
+  },
+  {
+    "id": "creevey",
+    "name": "Thomas Creevey",
+    "handle": "@CreeveyWrites",
+    "bio": "Whig politician & inveterate letter-writer. Guest at Knowsley and Croxteth. Distrusts the loco-motive.",
+    "role": "observer",
+    "years": "1768–1838",
+    "historical": true,
+    "avatar": { "initials": "TC", "hue": 170 }
+  },
+  {
+    "id": "carlyle",
+    "name": "Thomas Carlyle",
+    "handle": "@SageOfChelsea",
+    "bio": "Essayist. Edinburgh Review contributor. Diagnoses the Condition-of-England Question at length.",
+    "role": "thinker",
+    "years": "1795–1881",
+    "historical": true,
+    "avatar": { "initials": "TC", "hue": 18 }
+  },
+  {
+    "id": "oastler",
+    "name": "Richard Oastler",
+    "handle": "@FactoryKing",
+    "bio": "Steward of Fixby Hall, Tory, Churchman, and enemy of factory slavery. Called 'the Factory King' by the operatives.",
+    "role": "reformer",
+    "years": "1789–1861",
+    "historical": true,
+    "avatar": { "initials": "RO", "hue": 350 }
+  },
+  {
+    "id": "ure",
+    "name": "Andrew Ure",
+    "handle": "@PhilosophyOfManufactures",
+    "bio": "Chemist, Glasgow. Apologist for the factory system and admirer of the self-acting mule.",
+    "role": "owner",
+    "years": "1778–1857",
+    "historical": true,
+    "avatar": { "initials": "AU", "hue": 55 }
+  },
+  {
+    "id": "lovett",
+    "name": "William Lovett",
+    "handle": "@LovettLWMA",
+    "bio": "Cabinet-maker of Cornwall & London. Secretary of the London Working Men's Association. Drafter of the People's Charter.",
+    "role": "radical",
+    "years": "1800–1877",
+    "historical": true,
+    "avatar": { "initials": "WL", "hue": 105 }
+  },
+  {
+    "id": "engels",
+    "name": "Friedrich Engels",
+    "handle": "@EngelsInManchester",
+    "bio": "Clerk at Ermen & Engels, cotton-spinners, Manchester. Walks the working-class districts on Sundays.",
+    "role": "thinker",
+    "years": "1820–1895",
+    "historical": true,
+    "avatar": { "initials": "FE", "hue": 5 }
+  },
+  {
+    "id": "disraeli",
+    "name": "Benjamin Disraeli",
+    "handle": "@YoungEnglandDizzy",
+    "bio": "Novelist, MP for Shrewsbury, Young Englander. Writes of two nations.",
+    "role": "writer",
+    "years": "1804–1881",
+    "historical": true,
+    "avatar": { "initials": "BD", "hue": 240 }
+  },
+  {
+    "id": "dickens",
+    "name": "Charles Dickens",
+    "handle": "@Boz",
+    "bio": "Novelist. Late of the blacking warehouse. Has seen the black country from a coach window.",
+    "role": "writer",
+    "years": "1812–1870",
+    "historical": true,
+    "avatar": { "initials": "CD", "hue": 35 }
+  },
+  {
+    "id": "gaskell",
+    "name": "Elizabeth Gaskell",
+    "handle": "@MrsGaskell",
+    "bio": "Minister's wife, Manchester. Visits the homes of the poor of my husband's chapel.",
+    "role": "writer",
+    "years": "1810–1865",
+    "historical": true,
+    "avatar": { "initials": "EG", "hue": 330 }
+  },
+  {
+    "id": "ebb",
+    "name": "Elizabeth Barrett",
+    "handle": "@WimpoleStreetPoet",
+    "bio": "Poet, of Wimpole Street. Has read Mr Horne's report on the employment of children.",
+    "role": "writer",
+    "years": "1806–1861",
+    "historical": true,
+    "avatar": { "initials": "EB", "hue": 290 }
+  },
+  {
+    "id": "punch",
+    "name": "Punch",
+    "handle": "@PunchCharivari",
+    "bio": "The London Charivari. Founded 1841. Threepence weekly. Mr Punch sees everything.",
+    "role": "press",
+    "years": "Est. 1841",
+    "historical": true,
+    "avatar": { "initials": "P", "hue": 0 }
+  },
+  {
+    "id": "victoria",
+    "name": "Queen Victoria",
+    "handle": "@VR",
+    "bio": "By the Grace of God, of the United Kingdom of Great Britain and Ireland Queen. Writes often to her dear Uncle Leopold.",
+    "role": "observer",
+    "years": "1819–1901",
+    "historical": true,
+    "avatar": { "initials": "VR", "hue": 275 }
+  },
+  {
+    "id": "albert",
+    "name": "Prince Albert",
+    "handle": "@PrinceConsort",
+    "bio": "President of the Society of Arts. Moving spirit of the Exhibition of the Works of Industry of All Nations.",
+    "role": "optimist",
+    "years": "1819–1861",
+    "historical": true,
+    "avatar": { "initials": "PA", "hue": 230 }
+  },
+  {
+    "id": "bronte",
+    "name": "Charlotte Brontë",
+    "handle": "@CurrerBell",
+    "bio": "Author of Jane Eyre and Shirley (a novel of the Luddite year). Of Haworth. Not much in the way of crowds.",
+    "role": "observer",
+    "years": "1816–1855",
+    "historical": true,
+    "avatar": { "initials": "CB", "hue": 310 }
+  },
+  {
+    "id": "mayhew",
+    "name": "Henry Mayhew",
+    "handle": "@LondonLabour",
+    "bio": "Journalist, Morning Chronicle correspondent on London labour and the London poor. Co-founder of Punch.",
+    "role": "press",
+    "years": "1812–1887",
+    "historical": true,
+    "avatar": { "initials": "HM", "hue": 50 }
+  },
+  {
+    "id": "ruskin",
+    "name": "John Ruskin",
+    "handle": "@StonesOfVenice",
+    "bio": "Art critic. Graduate of Oxford. Prefers a crooked Gothic stone made by a free man to a perfect one made by a slave.",
+    "role": "thinker",
+    "years": "1819–1900",
+    "historical": true,
+    "avatar": { "initials": "JR", "hue": 135 }
+  },
+  {
+    "id": "smiles",
+    "name": "Samuel Smiles",
+    "handle": "@SelfHelp",
+    "bio": "Surgeon turned editor of the Leeds Times, railway secretary, and biographer of engineers. Heaven helps those who help themselves.",
+    "role": "optimist",
+    "years": "1812–1904",
+    "historical": true,
+    "avatar": { "initials": "SS", "hue": 85 }
+  }
+]

@@ -1,0 +1,3099 @@
+[
+  {
+    "id": "c1-jenny",
+    "accountId": "gazette",
+    "date": "1765",
+    "datePrecision": "year",
+    "chapter": 1,
+    "kind": "news",
+    "headline": "A machine that spins eight threads at once",
+    "text": "James Hargreaves, weaver of Stanhill near Blackwater, has made a spinning engine worked by one hand that turns eight spindles together. Spinners in the district are said to be uneasy.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary. The jenny is usually dated c.1764–65; Hargreaves patented it in 1770. In 1768 neighbours broke into his house and destroyed machines, and he moved to Nottingham.",
+    "engagement": {
+      "hearHears": 2356,
+      "reprints": 392
+    }
+  },
+  {
+    "id": "c1-watt-condenser",
+    "accountId": "watt",
+    "date": "1765-05",
+    "datePrecision": "month",
+    "chapter": 1,
+    "kind": "post",
+    "text": "Walking on the Green of a Sunday afternoon, it came into my head: condense the steam in a separate vessel, and the cylinder may be kept as hot as the steam that enters it. No more heating & cooling at every stroke. I may not work on the Sabbath. I can scarcely wait for Monday.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. Watt later told the story of the separate condenser occurring to him on a Sunday walk on Glasgow Green in 1765 (recollection reported by Robert Hart). The wording is invented; the idea, date and setting follow Watt's own account.",
+    "engagement": {
+      "hearHears": 831,
+      "reprints": 207
+    }
+  },
+  {
+    "id": "c1-ark-patent",
+    "accountId": "arkwright",
+    "date": "1769-07-03",
+    "datePrecision": "day",
+    "chapter": 1,
+    "kind": "post",
+    "text": "Patent granted this day for my engine for the making of weft or yarn from cotton, flax & wool. Mr Kay the clockmaker & I have laboured long upon it in a back room in Preston. A horse may turn it. I have a mind to try water.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. Arkwright's spinning patent was granted on 3 July 1769. John Kay, a clockmaker, helped build it. The first mill in Nottingham was horse-driven; the water-powered mill at Cromford followed in 1771.",
+    "engagement": {
+      "hearHears": 262,
+      "reprints": 37
+    }
+  },
+  {
+    "id": "c1-ark-cromford",
+    "accountId": "arkwright",
+    "date": "1771",
+    "datePrecision": "year",
+    "chapter": 1,
+    "kind": "post",
+    "text": "Cromford mill is turning. Wanted: families, the larger the better. Children of seven years & upward will find constant employment. Houses provided. The works run day & night; the bell will tell you when.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. Arkwright advertised in the Derby Mercury for workers, especially weavers and others 'with large families', and housed them in Cromford village. Children from about seven worked in the mill, which ran in shifts around the clock.",
+    "engagement": {
+      "hearHears": 731,
+      "reprints": 182
+    }
+  },
+  {
+    "id": "c1-weaver-golden",
+    "accountId": "weaver",
+    "date": "1792",
+    "datePrecision": "year",
+    "chapter": 1,
+    "kind": "post",
+    "text": "These are good years for the loom. Twist is plentiful from the new mills & fine enough for muslin. A man may keep his own hours: St Monday at the alehouse, and Friday night through to get the piece in. The spinning-mills have made more work for weavers, not less.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. William Radcliffe (Origin of the New System of Manufacture, 1828) described c.1788–1803 as a 'golden age' for hand-loom weavers, when machine-spun yarn was abundant but weaving was still done by hand. 'St Monday' was the common custom of not working on Mondays.",
+    "engagement": {
+      "hearHears": 370,
+      "reprints": 74
+    }
+  },
+  {
+    "id": "c1-smith-pins",
+    "accountId": "smith",
+    "date": "1776-03-09",
+    "datePrecision": "day",
+    "chapter": 1,
+    "kind": "post",
+    "text": "Those ten persons, therefore, could make among them upwards of forty-eight thousand pins in a day. … But if they had all wrought separately and independently, and without any of them having been educated to this peculiar business, they certainly could not each of them have made twenty, perhaps not one pin in a day…",
+    "type": "verified",
+    "source": {
+      "title": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+      "author": "Adam Smith",
+      "year": 1776,
+      "url": "https://www.gutenberg.org/ebooks/3300",
+      "textUrl": "https://www.gutenberg.org/cache/epub/3300/pg3300.txt",
+      "location": "Book I, ch. 1, 'Of the Division of Labour'"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": {
+      "text": "Two and a half centuries on, claims that AI tools let one worker do the work of many follow the pin factory's arithmetic, and get the same questions about who keeps the extra output.",
+      "label": "Modern commentary (paraphrase)"
+    },
+    "notes": "",
+    "engagement": {
+      "hearHears": 1592,
+      "reprints": 398
+    }
+  },
+  {
+    "id": "c1-smith-stupid",
+    "accountId": "smith",
+    "date": "1776-03-09",
+    "datePrecision": "day",
+    "chapter": 1,
+    "kind": "post",
+    "text": "The man whose whole life is spent in performing a few simple operations, of which the effects, too, are perhaps always the same, or very nearly the same, has no occasion to exert his understanding… He naturally loses, therefore, the habit of such exertion, and generally becomes as stupid and ignorant as it is possible for a human creature to become.",
+    "type": "verified",
+    "source": {
+      "title": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+      "author": "Adam Smith",
+      "year": 1776,
+      "url": "https://www.gutenberg.org/ebooks/3300",
+      "textUrl": "https://www.gutenberg.org/cache/epub/3300/pg3300.txt",
+      "location": "Book V, ch. 1, Part III"
+    },
+    "verificationStatus": "checked",
+    "replyTo": "c1-smith-pins",
+    "quotes": null,
+    "thenVsNow": {
+      "text": "Researchers ask whether leaning on AI assistants for routine thinking may wear away the skills of the people using them. Smith's worry, applied to minds instead of hands.",
+      "label": "Modern commentary (paraphrase)"
+    },
+    "notes": "Smith's own qualification of the division of labour, nearly a thousand pages after the pin factory.",
+    "engagement": {
+      "hearHears": 2378,
+      "reprints": 475
+    }
+  },
+  {
+    "id": "c1-smith-inventions",
+    "accountId": "smith",
+    "date": "1776-03-09",
+    "datePrecision": "day",
+    "chapter": 1,
+    "kind": "post",
+    "text": "A great part of the machines made use of in those manufactures in which labour is most subdivided, were originally the invention of common workmen…",
+    "type": "verified",
+    "source": {
+      "title": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+      "author": "Adam Smith",
+      "year": 1776,
+      "url": "https://www.gutenberg.org/ebooks/3300",
+      "textUrl": "https://www.gutenberg.org/cache/epub/3300/pg3300.txt",
+      "location": "Book I, ch. 1"
+    },
+    "verificationStatus": "checked",
+    "replyTo": "c1-smith-stupid",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "",
+    "engagement": {
+      "hearHears": 1982,
+      "reprints": 283
+    }
+  },
+  {
+    "id": "c1-boulton-power",
+    "accountId": "boulton",
+    "date": "1776-03-22",
+    "datePrecision": "day",
+    "chapter": 1,
+    "kind": "post",
+    "text": "I sell here, Sir, what all the world desires to have—POWER.",
+    "type": "verified",
+    "source": {
+      "title": "The Life of Samuel Johnson, LL.D.",
+      "author": "James Boswell",
+      "year": 1791,
+      "url": "https://www.gutenberg.org/ebooks/9072",
+      "textUrl": "https://www.gutenberg.org/cache/epub/9072/pg9072.txt",
+      "location": "Under 22 March 1776 (Hill ed., vol. II)"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Spoken to James Boswell during his visit to the Soho works; recorded by Boswell, who spells the name 'Bolton'. Boswell added: 'I contemplated him as an iron chieftain, and he seemed to be a father to his tribe.'",
+    "engagement": {
+      "hearHears": 304,
+      "reprints": 101
+    }
+  },
+  {
+    "id": "c1-watt-premium",
+    "accountId": "watt",
+    "date": "1776-04",
+    "datePrecision": "month",
+    "chapter": 1,
+    "kind": "post",
+    "text": "My partner is better at selling the thing than I am at making it. Our engine saves three parts in four of the coals Mr Newcomen's burns; we ask, in payment, one third of the saving, for as long as the patent runs. I lie awake over the boring of cylinders.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": "c1-boulton-power",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. Boulton & Watt charged customers a premium of one third of the fuel saved compared with a Newcomen engine. The patent was extended by Act of Parliament to 1800. Watt was well known for his anxiety and low spirits; John Wilkinson's precise cylinder-boring made the engine practical.",
+    "engagement": {
+      "hearHears": 487,
+      "reprints": 121
+    }
+  },
+  {
+    "id": "c1-birkacre",
+    "accountId": "gazette",
+    "date": "1779-10",
+    "datePrecision": "month",
+    "chapter": 1,
+    "kind": "news",
+    "headline": "Mill at Birkacre wrecked by crowds",
+    "text": "Spinners and weavers in the Chorley and Blackburn districts have risen against the new carding and spinning machines. The mill at Birkacre, in which Mr Arkwright is concerned, has been broken into and destroyed. Troops are called for.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary of the Lancashire machine riots of October 1779, in which Arkwright's Birkacre mill near Chorley was destroyed.",
+    "engagement": {
+      "hearHears": 1861,
+      "reprints": 620
+    }
+  },
+  {
+    "id": "c1-ark-birkacre",
+    "accountId": "arkwright",
+    "date": "1779-10",
+    "datePrecision": "month",
+    "chapter": 1,
+    "kind": "post",
+    "text": "They may burn Birkacre. They cannot burn a patent. I have armed my people at Cromford and the works shall be defended.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": "c1-birkacre",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. After the 1779 riots, contemporary reports describe Arkwright preparing Cromford against attack with arms mustered among his workforce.",
+    "engagement": {
+      "hearHears": 293,
+      "reprints": 48
+    }
+  },
+  {
+    "id": "c1-patent-void",
+    "accountId": "gazette",
+    "date": "1785-06",
+    "datePrecision": "month",
+    "chapter": 1,
+    "kind": "news",
+    "headline": "Arkwright's patent set aside",
+    "text": "In the Court of King's Bench a jury has found against Mr Arkwright's patent for spinning, holding the invention not his own and the specification insufficient. Water-twist may now be spun by any man.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary of R. v. Arkwright (June 1785), which cancelled his patents.",
+    "engagement": {
+      "hearHears": 1676,
+      "reprints": 335
+    }
+  },
+  {
+    "id": "c1-weaver-patent",
+    "accountId": "weaver",
+    "date": "1785-07",
+    "datePrecision": "month",
+    "chapter": 1,
+    "kind": "post",
+    "text": "The water-twist is now any man's to spin. More yarn, cheaper yarn, more webs for the loom. Good news for weavers, whatever it is for Mr Arkwright.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": "c1-patent-void",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. After the patent was annulled, cotton spinning expanded rapidly, and demand for hand-loom weavers rose until the early 1800s.",
+    "engagement": {
+      "hearHears": 647,
+      "reprints": 215
+    }
+  },
+  {
+    "id": "c1-ark-knighted",
+    "accountId": "arkwright",
+    "date": "1786-12",
+    "datePrecision": "month",
+    "chapter": 1,
+    "kind": "post",
+    "text": "Knighted by His Majesty on presenting the loyal address of the Wapentake of Wirksworth. Not bad for a barber's boy of Preston. Let them say what they like about the patent.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. Arkwright was knighted in December 1786 on presenting a loyal address after an attempt on George III's life. He was born in Preston and first worked as a barber and wig-maker.",
+    "engagement": {
+      "hearHears": 606,
+      "reprints": 202
+    }
+  },
+  {
+    "id": "c1-ark-death",
+    "accountId": "gazette",
+    "date": "1792-08-03",
+    "datePrecision": "day",
+    "chapter": 1,
+    "kind": "news",
+    "headline": "Sir Richard Arkwright dies at Cromford",
+    "text": "The great cotton-spinner is dead, aged fifty-nine. His fortune is spoken of as half a million. Willersley Castle, his new house above the Derwent, stands unfinished.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary. Arkwright died on 3 August 1792; his estate was widely reported at around £500,000.",
+    "engagement": {
+      "hearHears": 537,
+      "reprints": 76
+    }
+  },
+  {
+    "id": "c1-owen-lanark",
+    "accountId": "owen",
+    "date": "1800-01",
+    "datePrecision": "month",
+    "chapter": 1,
+    "kind": "post",
+    "text": "Took up the management of the New Lanark mills this New Year. Near two thousand souls, among them some hundreds of pauper children from the poorhouses of Edinburgh & Glasgow. Theft, drunkenness, idleness. I do not blame them. I blame the circumstances in which they have been placed.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. Owen took over New Lanark at the start of 1800. Many child workers were pauper apprentices from parish poorhouses. The last sentence paraphrases Owen's lifelong doctrine that character is formed by circumstances.",
+    "engagement": {
+      "hearHears": 179,
+      "reprints": 25
+    }
+  },
+  {
+    "id": "c2-owen-newview",
+    "accountId": "owen",
+    "date": "1813",
+    "datePrecision": "year",
+    "chapter": 2,
+    "kind": "post",
+    "text": "Any general character, from the best to the worst, from the most ignorant to the most enlightened, may be given to any community, even to the world at large, by the application of proper means…",
+    "type": "verified",
+    "source": {
+      "title": "A New View of Society (Essay First)",
+      "author": "Robert Owen",
+      "year": 1813,
+      "url": "https://archive.org/details/newviewofsociety00owen",
+      "textUrl": "https://archive.org/download/newviewofsociety00owen/newviewofsociety00owen_djvu.txt",
+      "location": "Essay First (Everyman ed., 1927)"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "",
+    "engagement": {
+      "hearHears": 1055,
+      "reprints": 150
+    }
+  },
+  {
+    "id": "c2-owen-observations",
+    "accountId": "owen",
+    "date": "1815",
+    "datePrecision": "year",
+    "chapter": 2,
+    "kind": "post",
+    "text": "The general diffusion of manufactures throughout a country generates a new character in its inhabitants; and as this character is formed upon a principle quite unfavourable to individual or general happiness, it will produce the most lamentable and permanent evils, unless its tendency be counteracted by legislative interference and direction.",
+    "type": "verified",
+    "source": {
+      "title": "Observations on the Effect of the Manufacturing System",
+      "author": "Robert Owen",
+      "year": 1815,
+      "url": "https://archive.org/details/observationsonef00owenrich",
+      "textUrl": "https://archive.org/download/observationsonef00owenrich/observationsonef00owenrich_djvu.txt",
+      "location": "Opening pages (2nd ed., 1817)"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": {
+      "text": "Calls to regulate AI before its social effects set in work the same way: the technology is said to reshape the people who live with it unless law steps in early.",
+      "label": "Modern commentary (paraphrase)"
+    },
+    "notes": "",
+    "engagement": {
+      "hearHears": 1265,
+      "reprints": 180
+    }
+  },
+  {
+    "id": "c2-arnold",
+    "accountId": "gazette",
+    "date": "1811-03-11",
+    "datePrecision": "day",
+    "chapter": 2,
+    "kind": "news",
+    "headline": "Stocking frames broken at Arnold",
+    "text": "Following a meeting of framework-knitters in Nottingham market-place, some sixty frames have been broken at Arnold. The men complain of 'cut-ups' (cheap goods from wide frames) and of wages paid in truck.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary. The first wave of Nottinghamshire frame-breaking began at Arnold on 11 March 1811.",
+    "engagement": {
+      "hearHears": 967,
+      "reprints": 193
+    }
+  },
+  {
+    "id": "c2-ludd-declaration",
+    "accountId": "ludd",
+    "date": "1812-01",
+    "datePrecision": "month",
+    "chapter": 2,
+    "kind": "post",
+    "text": "…all Frames of whatsoever description the workmen of whom are not paid in the current coin of the realm will invariably be destroyed.",
+    "type": "verified",
+    "source": {
+      "title": "The Skilled Labourer, 1760–1832 (quoting Home Office papers)",
+      "author": "J. L. & Barbara Hammond",
+      "year": 1919,
+      "url": "https://archive.org/details/skilledlabourer100hammuoft",
+      "textUrl": "https://archive.org/download/skilledlabourer100hammuoft/skilledlabourer100hammuoft_djvu.txt",
+      "location": "Ch. VIII, quoting a Luddite declaration in H.O. 42/119"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "The declaration also disowned 'Banditti, robbing under pretence of frame-breaking'. Quoted here from the Hammonds' transcription of the Home Office papers. The 1812 text is public domain.",
+    "engagement": {
+      "hearHears": 330,
+      "reprints": 110
+    }
+  },
+  {
+    "id": "c2-ludd-song",
+    "accountId": "ludd",
+    "date": "1812",
+    "datePrecision": "year",
+    "chapter": 2,
+    "kind": "post",
+    "text": "The guilty may fear, but no vengeance he aims\nAt the honest man's life or estate\nHis wrath is entirely confined to wide frames\nAnd to those that old prices abate.",
+    "type": "verified",
+    "source": {
+      "title": "The Skilled Labourer, 1760–1832 (quoting Home Office papers)",
+      "author": "J. L. & Barbara Hammond",
+      "year": 1919,
+      "url": "https://archive.org/details/skilledlabourer100hammuoft",
+      "textUrl": "https://archive.org/download/skilledlabourer100hammuoft/skilledlabourer100hammuoft_djvu.txt",
+      "location": "Ch. VIII, quoting 'General Ludd's Triumph'"
+    },
+    "verificationStatus": "needs-verification",
+    "replyTo": "c2-ludd-declaration",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Lines 1, 2 and 4 match the Hammonds' transcription. Line 3 is illegible in the OCR of the copy checked; the reading here is the commonly printed one and needs checking against a clean copy.",
+    "engagement": {
+      "hearHears": 1479,
+      "reprints": 369
+    }
+  },
+  {
+    "id": "c2-byron-wretchedness",
+    "accountId": "byron",
+    "date": "1812-02-27",
+    "datePrecision": "day",
+    "chapter": 2,
+    "kind": "post",
+    "text": "I have traversed the seat of war in the peninsula, I have been in some of the most oppressed provinces of Turkey, but never under the most despotic of infidel governments did I behold such squalid wretchedness as I have seen since my return in the very heart of a Christian country.",
+    "type": "verified",
+    "source": {
+      "title": "Frame-Work Bill, House of Lords debate, 27 February 1812",
+      "author": "Lord Byron (Hansard)",
+      "year": 1812,
+      "url": "https://api.parliament.uk/historic-hansard/lords/1812/feb/27/frame-work-bill",
+      "textUrl": "https://api.parliament.uk/historic-hansard/lords/1812/feb/27/frame-work-bill",
+      "location": "HL Deb 27 Feb 1812, vol. 21, cc. 966–972"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Byron's maiden speech in the House of Lords, against the bill making frame-breaking a capital offence.",
+    "engagement": {
+      "hearHears": 1619,
+      "reprints": 539
+    }
+  },
+  {
+    "id": "c2-byron-want",
+    "accountId": "byron",
+    "date": "1812-02-27",
+    "datePrecision": "day",
+    "chapter": 2,
+    "kind": "post",
+    "text": "The perseverance of these miserable men in their proceedings, tends to prove that nothing but absolute want could have driven a large, and once honest and industrious, body of the people, into the commission of excesses so hazardous to themselves, their families and the community.",
+    "type": "verified",
+    "source": {
+      "title": "Frame-Work Bill, House of Lords debate, 27 February 1812",
+      "author": "Lord Byron (Hansard)",
+      "year": 1812,
+      "url": "https://api.parliament.uk/historic-hansard/lords/1812/feb/27/frame-work-bill",
+      "textUrl": "https://api.parliament.uk/historic-hansard/lords/1812/feb/27/frame-work-bill",
+      "location": "HL Deb 27 Feb 1812"
+    },
+    "verificationStatus": "checked",
+    "replyTo": "c2-byron-wretchedness",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "",
+    "engagement": {
+      "hearHears": 2252,
+      "reprints": 750
+    }
+  },
+  {
+    "id": "c2-byron-scarecrows",
+    "accountId": "byron",
+    "date": "1812-02-27",
+    "datePrecision": "day",
+    "chapter": 2,
+    "kind": "post",
+    "text": "Can you commit a whole county to their own prisons? Will you erect a gibbet in every field and hang up men like scarecrows?",
+    "type": "verified",
+    "source": {
+      "title": "Frame-Work Bill, House of Lords debate, 27 February 1812",
+      "author": "Lord Byron (Hansard)",
+      "year": 1812,
+      "url": "https://api.parliament.uk/historic-hansard/lords/1812/feb/27/frame-work-bill",
+      "textUrl": "https://api.parliament.uk/historic-hansard/lords/1812/feb/27/frame-work-bill",
+      "location": "HL Deb 27 Feb 1812"
+    },
+    "verificationStatus": "checked",
+    "replyTo": "c2-byron-want",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "",
+    "engagement": {
+      "hearHears": 2192,
+      "reprints": 730
+    }
+  },
+  {
+    "id": "c2-act",
+    "accountId": "gazette",
+    "date": "1812-03",
+    "datePrecision": "month",
+    "chapter": 2,
+    "kind": "news",
+    "headline": "Frame-breaking made a hanging matter",
+    "text": "The Frame-Breaking Act has passed both Houses. Destroying a stocking or lace frame is now a capital felony.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": "c2-byron-scarecrows",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary of the Frame-Breaking Act 1812 (52 Geo. III c. 16), passed despite Byron's opposition.",
+    "engagement": {
+      "hearHears": 3111,
+      "reprints": 518
+    }
+  },
+  {
+    "id": "c2-cropper-frames",
+    "accountId": "cropper",
+    "date": "1812-02",
+    "datePrecision": "month",
+    "chapter": 2,
+    "kind": "post",
+    "text": "A piece that takes a cropper eighty-eight hours at the hand-shears, Vickerman's frames will finish in eighteen. Seven years I served to learn the shears. They tell me this is improvement. Improvement for whom?",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. Contemporary estimates (cited by the Hammonds) put the time to shear a piece of cloth at eighty-eight hours by hand and eighteen with shearing frames. Croppers served long apprenticeships. Francis Vickerman's frames near Huddersfield were attacked in 1812.",
+    "engagement": {
+      "hearHears": 693,
+      "reprints": 99
+    }
+  },
+  {
+    "id": "c2-ludd-smith",
+    "accountId": "ludd",
+    "date": "1812-03",
+    "datePrecision": "month",
+    "chapter": 2,
+    "kind": "post",
+    "text": "Information has just been given in that you are a holder of those detestable Shearing Frames, and I was desired by my men to write to you and give you fair warning to pull them down…",
+    "type": "verified",
+    "source": {
+      "title": "Letter to Mr Smith, shearing-frame holder, Hill End, Yorkshire (Home Office papers, H.O. 40/1)",
+      "author": "'Ned Ludd, Clerk', for the General of the Army of Redressers",
+      "year": 1812,
+      "location": "H.O. 40/1, National Archives",
+      "url": "",
+      "textUrl": ""
+    },
+    "verificationStatus": "needs-verification",
+    "replyTo": "c2-cropper-frames",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Text as it is commonly printed. Not yet checked against the Home Office original or a facsimile, so it is not counted as verified.",
+    "engagement": {
+      "hearHears": 904,
+      "reprints": 301
+    }
+  },
+  {
+    "id": "c2-rawfolds",
+    "accountId": "gazette",
+    "date": "1812-04-11",
+    "datePrecision": "day",
+    "chapter": 2,
+    "kind": "news",
+    "headline": "Night attack on Rawfolds Mill",
+    "text": "Some hundred and fifty men with blackened faces attacked William Cartwright's mill at Rawfolds, Liversedge, where shearing frames are worked. The mill was held by Cartwright, four of his men and five soldiers. Two attackers lay mortally wounded in the yard.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary. Samuel Hartley and John Booth died of their wounds.",
+    "engagement": {
+      "hearHears": 2017,
+      "reprints": 672
+    }
+  },
+  {
+    "id": "c2-cropper-booth",
+    "accountId": "cropper",
+    "date": "1812-04-12",
+    "datePrecision": "day",
+    "chapter": 2,
+    "kind": "post",
+    "text": "John Booth was scarce twenty. He died at the Star with the parson at his bed asking him for names. He gave none.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": "c2-rawfolds",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. Booth and Hartley were taken to the Star Inn at Roberttown, where the Rev. Hammond Roberson attended them; local tradition holds that Booth refused to name his companions.",
+    "engagement": {
+      "hearHears": 404,
+      "reprints": 101
+    }
+  },
+  {
+    "id": "c2-horsfall",
+    "accountId": "gazette",
+    "date": "1812-04-28",
+    "datePrecision": "day",
+    "chapter": 2,
+    "kind": "news",
+    "headline": "Mill-owner shot on Crosland Moor",
+    "text": "William Horsfall of Marsden, a vocal enemy of the Luddites, has been shot from behind a wall as he rode home from Huddersfield market. He died some thirty-eight hours later.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary. Horsfall had reportedly said he wished to ride up to his saddle-girths in Luddite blood.",
+    "engagement": {
+      "hearHears": 3417,
+      "reprints": 569
+    }
+  },
+  {
+    "id": "c2-weaver-westhoughton",
+    "accountId": "weaver",
+    "date": "1812-04-25",
+    "datePrecision": "day",
+    "chapter": 2,
+    "kind": "post",
+    "text": "They burned Rowe & Duncough's mill at Westhoughton yesterday, where the power-looms were. I was not there. I will say no more than that, for there are spies in every alehouse from here to Manchester.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. Westhoughton mill, which used power looms, was burned on 24 April 1812. Government informers were active among Lancashire workers, as the Hammonds document.",
+    "engagement": {
+      "hearHears": 149,
+      "reprints": 49
+    }
+  },
+  {
+    "id": "c2-york",
+    "accountId": "gazette",
+    "date": "1813-01-16",
+    "datePrecision": "day",
+    "chapter": 2,
+    "kind": "news",
+    "headline": "Seventeen hanged at York",
+    "text": "George Mellor, William Thorpe and Thomas Smith were hanged on the 8th for the murder of Mr Horsfall. Fourteen more were hanged this morning for the Rawfolds attack and other offences.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary of the York Special Commission executions, January 1813.",
+    "engagement": {
+      "hearHears": 2450,
+      "reprints": 408
+    }
+  },
+  {
+    "id": "c2-cropper-york",
+    "accountId": "cropper",
+    "date": "1813-01-17",
+    "datePrecision": "day",
+    "chapter": 2,
+    "kind": "post",
+    "text": "Fourteen in a morning, on one long drop, so the crowd could see. And the frames are in every finishing shop in the Riding now.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": "c2-york",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. The fourteen executed on 16 January 1813 were hanged together. Shearing frames spread through the West Riding after 1812 and the cropping trade declined.",
+    "engagement": {
+      "hearHears": 866,
+      "reprints": 123
+    }
+  },
+  {
+    "id": "c2-byron-song",
+    "accountId": "byron",
+    "date": "1816-12-24",
+    "datePrecision": "day",
+    "chapter": 2,
+    "kind": "post",
+    "text": "As the Liberty lads o'er the sea\nBought their freedom, and cheaply, with blood,\nSo we, boys, we\nWill die fighting, or live free,\nAnd down with all kings but King Ludd!",
+    "type": "verified",
+    "source": {
+      "title": "Song for the Luddites, in a letter to Thomas Moore (Works of Lord Byron, ed. Coleridge, vol. 7)",
+      "author": "Lord Byron",
+      "year": 1830,
+      "url": "https://en.wikisource.org/wiki/The_Works_of_Lord_Byron_(ed._Coleridge,_Prothero)/Poetry/Volume_7/Song_for_the_Luddites",
+      "textUrl": "https://en.wikisource.org/api/rest_v1/page/html/The_Works_of_Lord_Byron_(ed._Coleridge%2C_Prothero)%2FPoetry%2FVolume_7%2FSong_for_the_Luddites",
+      "location": "Stanza 1"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Sent in a letter to Thomas Moore from Venice. First published in 1830.",
+    "engagement": {
+      "hearHears": 1024,
+      "reprints": 170
+    }
+  },
+  {
+    "id": "c2-byron-song2",
+    "accountId": "byron",
+    "date": "1816-12-24",
+    "datePrecision": "day",
+    "chapter": 2,
+    "kind": "post",
+    "text": "When the web that we weave is complete,\nAnd the shuttle exchanged for the sword,\nWe will fling the winding sheet\nO'er the despot at our feet,\nAnd dye it deep in the gore he has poured.",
+    "type": "verified",
+    "source": {
+      "title": "Song for the Luddites, in a letter to Thomas Moore (Works of Lord Byron, ed. Coleridge, vol. 7)",
+      "author": "Lord Byron",
+      "year": 1830,
+      "url": "https://en.wikisource.org/wiki/The_Works_of_Lord_Byron_(ed._Coleridge,_Prothero)/Poetry/Volume_7/Song_for_the_Luddites",
+      "textUrl": "https://en.wikisource.org/api/rest_v1/page/html/The_Works_of_Lord_Byron_(ed._Coleridge%2C_Prothero)%2FPoetry%2FVolume_7%2FSong_for_the_Luddites",
+      "location": "Stanza 2"
+    },
+    "verificationStatus": "checked",
+    "replyTo": "c2-byron-song",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "",
+    "engagement": {
+      "hearHears": 2323,
+      "reprints": 331
+    }
+  },
+  {
+    "id": "c2-weaver-1816",
+    "accountId": "weaver",
+    "date": "1816-08",
+    "datePrecision": "month",
+    "chapter": 2,
+    "kind": "post",
+    "text": "Peace with France, and no bread. The summer never came; the oats are green in August. Masters say trade is dead and cut the price of a piece again. Oatmeal & potatoes, and not much of either.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. 1816, the 'year without a summer' after the Tambora eruption, brought poor harvests. The post-war slump and the 1815 Corn Law kept bread dear while weaving piece-rates fell.",
+    "engagement": {
+      "hearHears": 763,
+      "reprints": 127
+    }
+  },
+  {
+    "id": "c3-bamford-blanketeers",
+    "accountId": "bamford",
+    "date": "1817-03-10",
+    "datePrecision": "day",
+    "chapter": 3,
+    "kind": "post",
+    "text": "A body of yeomanry soon afterwards followed those simple-minded men, and took possession of the bridge at Stockport. Many then turned back to their homes; a body of them crossed the river below, and entered Cheshire; several received sabre wounds, and one man was shot dead on Lancashire hill.",
+    "type": "verified",
+    "source": {
+      "title": "Passages in the Life of a Radical (ed. Dunckley, 1893)",
+      "author": "Samuel Bamford",
+      "year": 1844,
+      "url": "https://archive.org/details/passagesinlifeof00bamfuoft",
+      "textUrl": "https://archive.org/download/passagesinlifeof00bamfuoft/passagesinlifeof00bamfuoft_djvu.txt",
+      "location": "Passages, ch. on the Blanketeers"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "The 'Blanketeers' set out from Manchester to march to London to petition the Prince Regent, carrying blankets to sleep in. Bamford's account was published in 1844.",
+    "engagement": {
+      "hearHears": 2484,
+      "reprints": 354
+    }
+  },
+  {
+    "id": "c3-weaver-drill",
+    "accountId": "weaver",
+    "date": "1819-08-09",
+    "datePrecision": "day",
+    "chapter": 3,
+    "kind": "post",
+    "text": "Drilling on the moors at dawn this week: not for fighting, Bamford says, but so we march to Manchester in good order, and nobody can call us a mob. Clean, sober, orderly. The women's union are sewing banners.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. In the weeks before Peterloo, reformers drilled on the moors so they could march in disciplined order. Bamford's Passages describes the instructions on cleanliness and sobriety. Female reform societies took part, many women dressed in white.",
+    "engagement": {
+      "hearHears": 458,
+      "reprints": 76
+    }
+  },
+  {
+    "id": "c3-peterloo",
+    "accountId": "gazette",
+    "date": "1819-08-16",
+    "datePrecision": "day",
+    "chapter": 3,
+    "kind": "news",
+    "headline": "Yeomanry charge reform meeting at St Peter's Field",
+    "text": "A meeting of perhaps sixty thousand people, gathered to hear Mr Hunt speak for parliamentary reform, has been broken up by the Manchester and Cheshire Yeomanry and the 15th Hussars. Many are dead and hundreds wounded, women and children among them.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary. Estimates of the dead range from about eleven to eighteen; hundreds were injured. The Manchester Observer coined the name 'Peterloo' in mockery of Waterloo.",
+    "engagement": {
+      "hearHears": 2840,
+      "reprints": 473
+    }
+  },
+  {
+    "id": "c3-bamford-havoc",
+    "accountId": "bamford",
+    "date": "1819-08-16",
+    "datePrecision": "day",
+    "chapter": 3,
+    "kind": "post",
+    "text": "In ten minutes from the commencement of the havoc the field was an open and almost deserted space. The sun looked down through a sultry and motionless air. The curtains and blinds of the windows within view were all closed.",
+    "type": "verified",
+    "source": {
+      "title": "Passages in the Life of a Radical (ed. Dunckley, 1893)",
+      "author": "Samuel Bamford",
+      "year": 1844,
+      "url": "https://archive.org/details/passagesinlifeof00bamfuoft",
+      "textUrl": "https://archive.org/download/passagesinlifeof00bamfuoft/passagesinlifeof00bamfuoft_djvu.txt",
+      "location": "Passages, ch. XXXV"
+    },
+    "verificationStatus": "checked",
+    "replyTo": "c3-peterloo",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Bamford led the Middleton contingent and was later imprisoned for his part in the meeting. His account was published in 1844.",
+    "engagement": {
+      "hearHears": 2360,
+      "reprints": 393
+    }
+  },
+  {
+    "id": "c3-bamford-field",
+    "accountId": "bamford",
+    "date": "1819-08-16",
+    "datePrecision": "day",
+    "chapter": 3,
+    "kind": "post",
+    "text": "…over the whole field were strewed caps, bonnets, hats, shawls, and shoes, and other parts of male and female dress, trampled, torn, and bloody.",
+    "type": "verified",
+    "source": {
+      "title": "Passages in the Life of a Radical (ed. Dunckley, 1893)",
+      "author": "Samuel Bamford",
+      "year": 1844,
+      "url": "https://archive.org/details/passagesinlifeof00bamfuoft",
+      "textUrl": "https://archive.org/download/passagesinlifeof00bamfuoft/passagesinlifeof00bamfuoft_djvu.txt",
+      "location": "Passages, ch. XXXV"
+    },
+    "verificationStatus": "checked",
+    "replyTo": "c3-bamford-havoc",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "",
+    "engagement": {
+      "hearHears": 1646,
+      "reprints": 274
+    }
+  },
+  {
+    "id": "c3-weaver-peterloo",
+    "accountId": "weaver",
+    "date": "1819-08-17",
+    "datePrecision": "day",
+    "chapter": 3,
+    "kind": "post",
+    "text": "Got home to Bolton at midnight. My wife's sister is cut about the head. Our banner said LIBERTY AND FRATERNITY. They rode it down like it was a French battery.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": "c3-bamford-field",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. Contingents from Bolton and the surrounding towns marched to St Peter's Field with banners carrying slogans such as 'Liberty and Fraternity' and 'Universal Suffrage'. Many of the injured were women.",
+    "engagement": {
+      "hearHears": 668,
+      "reprints": 167
+    }
+  },
+  {
+    "id": "c3-shelley-masque",
+    "accountId": "shelley",
+    "date": "1819-09",
+    "datePrecision": "month",
+    "chapter": 3,
+    "kind": "post",
+    "text": "Rise like Lions after slumber\nIn unvanquishable number,\nShake your chains to earth like dew\nWhich in sleep had fallen on you—\nYe are many—they are few.",
+    "type": "verified",
+    "source": {
+      "title": "The Complete Poetical Works of Percy Bysshe Shelley (ed. Hutchinson)",
+      "author": "Percy Bysshe Shelley",
+      "year": 1832,
+      "url": "https://www.gutenberg.org/ebooks/4800",
+      "textUrl": "https://www.gutenberg.org/cache/epub/4800/pg4800.txt",
+      "location": "The Mask of Anarchy, stanza 38"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": "c3-peterloo",
+    "thenVsNow": null,
+    "notes": "Written in Italy in September 1819 on hearing of Peterloo. Leigh Hunt did not dare publish it; it first appeared in 1832.",
+    "engagement": {
+      "hearHears": 799,
+      "reprints": 159
+    }
+  },
+  {
+    "id": "c3-shelley-men",
+    "accountId": "shelley",
+    "date": "1819",
+    "datePrecision": "year",
+    "chapter": 3,
+    "kind": "post",
+    "text": "Men of England, wherefore plough\nFor the lords who lay ye low?\nWherefore weave with toil and care\nThe rich robes your tyrants wear?",
+    "type": "verified",
+    "source": {
+      "title": "The Complete Poetical Works of Percy Bysshe Shelley (ed. Hutchinson)",
+      "author": "Percy Bysshe Shelley",
+      "year": 1839,
+      "url": "https://www.gutenberg.org/ebooks/4800",
+      "textUrl": "https://www.gutenberg.org/cache/epub/4800/pg4800.txt",
+      "location": "Song to the Men of England"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Written 1819; first published 1839.",
+    "engagement": {
+      "hearHears": 190,
+      "reprints": 63
+    }
+  },
+  {
+    "id": "c3-sixacts",
+    "accountId": "gazette",
+    "date": "1819-12",
+    "datePrecision": "month",
+    "chapter": 3,
+    "kind": "news",
+    "headline": "Parliament passes the Six Acts",
+    "text": "In answer to the Manchester meeting, Parliament has restricted public meetings, raised the stamp duty on cheap radical papers, and given magistrates powers to search for arms.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary of the Six Acts of December 1819.",
+    "engagement": {
+      "hearHears": 2720,
+      "reprints": 388
+    }
+  },
+  {
+    "id": "c3-ricardo-before",
+    "accountId": "ricardo",
+    "date": "1821",
+    "datePrecision": "year",
+    "chapter": 3,
+    "kind": "post",
+    "text": "Ever since I first turned my attention to questions of political economy, I have been of opinion, that such an application of machinery to any branch of production, as should have the effect of saving labour, was a general good, accompanied only with that portion of inconvenience which in most cases attends the removal of capital and labour from one employment to another.",
+    "type": "verified",
+    "source": {
+      "title": "On the Principles of Political Economy and Taxation, 3rd ed.",
+      "author": "David Ricardo",
+      "year": 1821,
+      "url": "https://archive.org/details/onprinciplesofpo0000rica",
+      "textUrl": "https://archive.org/download/onprinciplesofpo0000rica/onprinciplesofpo0000rica_djvu.txt",
+      "location": "Ch. XXXI, 'On Machinery' (new in the 3rd ed.)"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Ricardo added an entire chapter to the third edition to say he had changed his mind.",
+    "engagement": {
+      "hearHears": 1052,
+      "reprints": 263
+    }
+  },
+  {
+    "id": "c3-ricardo-convinced",
+    "accountId": "ricardo",
+    "date": "1821",
+    "datePrecision": "year",
+    "chapter": 3,
+    "kind": "post",
+    "text": "…I am convinced, that the substitution of machinery for human labour, is often very injurious to the interests of the class of labourers.",
+    "type": "verified",
+    "source": {
+      "title": "On the Principles of Political Economy and Taxation, 3rd ed.",
+      "author": "David Ricardo",
+      "year": 1821,
+      "url": "https://archive.org/details/onprinciplesofpo0000rica",
+      "textUrl": "https://archive.org/download/onprinciplesofpo0000rica/onprinciplesofpo0000rica_djvu.txt",
+      "location": "Ch. XXXI, 'On Machinery'"
+    },
+    "verificationStatus": "checked",
+    "replyTo": "c3-ricardo-before",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "",
+    "engagement": {
+      "hearHears": 2116,
+      "reprints": 302
+    }
+  },
+  {
+    "id": "c3-ricardo-prejudice",
+    "accountId": "ricardo",
+    "date": "1821",
+    "datePrecision": "year",
+    "chapter": 3,
+    "kind": "post",
+    "text": "…the opinion entertained by the labouring class, that the employment of machinery is frequently detrimental to their interests, is not founded on prejudice and error, but is conformable to the correct principles of political economy.",
+    "type": "verified",
+    "source": {
+      "title": "On the Principles of Political Economy and Taxation, 3rd ed.",
+      "author": "David Ricardo",
+      "year": 1821,
+      "url": "https://archive.org/details/onprinciplespol00ricagoog",
+      "textUrl": "https://archive.org/download/onprinciplespol00ricagoog/onprinciplespol00ricagoog_djvu.txt",
+      "location": "Ch. XXXI, 'On Machinery'"
+    },
+    "verificationStatus": "checked",
+    "replyTo": "c3-ricardo-convinced",
+    "quotes": null,
+    "thenVsNow": {
+      "text": "Economists still split on Ricardo's question: whether productivity gains from automation reach workers in the end, or flow mostly to whoever owns the machines.",
+      "label": "Modern commentary (paraphrase)"
+    },
+    "notes": "",
+    "engagement": {
+      "hearHears": 2544,
+      "reprints": 363
+    }
+  },
+  {
+    "id": "c3-cropper-ricardo",
+    "accountId": "cropper",
+    "date": "1821",
+    "datePrecision": "year",
+    "chapter": 3,
+    "kind": "post",
+    "text": "Nine years after they hanged our lads at York, the cleverest man in the House of Commons writes that we were not prejudiced after all. I'll tell the widows. It will be a great comfort.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": "c3-ricardo-prejudice",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. The bitterness is invented, but the timeline is real: the York executions were in 1813, and Ricardo's chapter on machinery appeared in 1821. Ricardo sat in the Commons from 1819.",
+    "engagement": {
+      "hearHears": 593,
+      "reprints": 197
+    }
+  },
+  {
+    "id": "c3-weaver-powerloom",
+    "accountId": "weaver",
+    "date": "1823",
+    "datePrecision": "year",
+    "chapter": 3,
+    "kind": "post",
+    "text": "A Stockport man says there are thousands of power-looms at work in the town now, each minded by a girl at a few shillings. My price for a piece is not half what it was in '14. I work longer for it.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. Power looms spread in Stockport and Manchester in the 1820s. Hand-loom weavers' piece-rates fell steeply from their wartime levels, as reported to later parliamentary inquiries.",
+    "engagement": {
+      "hearHears": 230,
+      "reprints": 32
+    }
+  },
+  {
+    "id": "c3-combination",
+    "accountId": "gazette",
+    "date": "1824-06",
+    "datePrecision": "month",
+    "chapter": 3,
+    "kind": "news",
+    "headline": "Combination Acts repealed",
+    "text": "Thanks largely to the labours of Mr Francis Place, workmen may now lawfully combine to bargain over wages. Strikes are expected to follow.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary. The 1824 repeal was partly reversed in 1825 after a wave of strikes.",
+    "engagement": {
+      "hearHears": 2919,
+      "reprints": 417
+    }
+  },
+  {
+    "id": "c4-sd",
+    "accountId": "gazette",
+    "date": "1825-09-27",
+    "datePrecision": "day",
+    "chapter": 4,
+    "kind": "news",
+    "headline": "Steam carriage draws passengers from Shildon to Stockton",
+    "text": "The Stockton & Darlington Railway has opened. Mr Stephenson's engine Locomotion drew a train of coal waggons and a passenger coach, with hundreds riding, to cheering crowds along the line.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary. The S&D was the first public railway to use steam locomotives, though horses still drew many trains.",
+    "engagement": {
+      "hearHears": 380,
+      "reprints": 54
+    }
+  },
+  {
+    "id": "c4-stephenson-coo",
+    "accountId": "stephenson",
+    "date": "1825",
+    "datePrecision": "year",
+    "chapter": 4,
+    "kind": "post",
+    "text": "…very awkward—for the coo!",
+    "type": "verified",
+    "source": {
+      "title": "The Life of George Stephenson and of his Son Robert Stephenson",
+      "author": "Samuel Smiles",
+      "year": 1857,
+      "url": "https://www.gutenberg.org/ebooks/46229",
+      "textUrl": "https://www.gutenberg.org/cache/epub/46229/pg46229.txt",
+      "location": "Ch. on the Liverpool & Manchester bill"
+    },
+    "verificationStatus": "needs-verification",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Stephenson's reported answer when a parliamentary committee asked whether it would not be 'a very awkward circumstance' if a cow strayed in front of an engine. The words match Smiles's 1857 biography, but the story was written down more than thirty years later and has not been checked against the committee minutes.",
+    "engagement": {
+      "hearHears": 708,
+      "reprints": 141
+    }
+  },
+  {
+    "id": "c4-navvy-chatmoss",
+    "accountId": "navvy",
+    "date": "1828",
+    "datePrecision": "year",
+    "chapter": 4,
+    "kind": "post",
+    "text": "Every load we tip into Chat Moss sinks and is gone. Mr Stephenson says float the road across on hurdles and heather like a raft. Half the gentlemen in Liverpool say he is mad. We're paid either way, and we drink it either way.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. Stephenson crossed the Chat Moss bog (1826–29) by floating the line on hurdles and brushwood. Many engineers thought it impossible. Navvies' pay, hard drinking and dangerous work were widely remarked on.",
+    "engagement": {
+      "hearHears": 78,
+      "reprints": 15
+    }
+  },
+  {
+    "id": "c4-rainhill",
+    "accountId": "gazette",
+    "date": "1829-10",
+    "datePrecision": "month",
+    "chapter": 4,
+    "kind": "news",
+    "headline": "Rocket takes the prize at Rainhill",
+    "text": "The trials for the £500 premium of the Liverpool & Manchester directors are decided. Messrs Stephenson's Rocket alone completed the course; Novelty and Sans Pareil broke down. Rocket ran near thirty miles an hour when running light.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary of the Rainhill Trials, 6–14 October 1829.",
+    "engagement": {
+      "hearHears": 278,
+      "reprints": 92
+    }
+  },
+  {
+    "id": "c4-creevey-flying",
+    "accountId": "creevey",
+    "date": "1829-11-14",
+    "datePrecision": "day",
+    "chapter": 4,
+    "kind": "post",
+    "text": "But the quickest motion is to me frightful: it is really flying, and it is impossible to divest yourself of the notion of instant death to all upon the least accident happening. It gave me a headache which has not left me yet.",
+    "type": "verified",
+    "source": {
+      "title": "The Creevey Papers, vol. II (ed. Maxwell, 1904)",
+      "author": "Thomas Creevey",
+      "year": 1903,
+      "url": "https://archive.org/details/in.ernet.dli.2015.210898",
+      "textUrl": "https://archive.org/download/in.ernet.dli.2015.210898/2015.210898.The-Creevey_djvu.txt",
+      "location": "Letter to Miss Ord, Croxteth, 14 Nov. 1829"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": "c4-rainhill",
+    "thenVsNow": {
+      "text": "People who first try a powerful new tool often feel the same mix: it is thrilling, it is fast, and it seems one mistake away from disaster.",
+      "label": "Modern commentary (paraphrase)"
+    },
+    "notes": "",
+    "engagement": {
+      "hearHears": 147,
+      "reprints": 36
+    }
+  },
+  {
+    "id": "c4-creevey-sefton",
+    "accountId": "creevey",
+    "date": "1829-11-14",
+    "datePrecision": "day",
+    "chapter": 4,
+    "kind": "post",
+    "text": "Sefton is convinced that some damnable thing must come of it; but he and I seem more struck with such apprehension than others.",
+    "type": "verified",
+    "source": {
+      "title": "The Creevey Papers, vol. II (ed. Maxwell, 1904)",
+      "author": "Thomas Creevey",
+      "year": 1903,
+      "url": "https://archive.org/details/in.ernet.dli.2015.210898",
+      "textUrl": "https://archive.org/download/in.ernet.dli.2015.210898/2015.210898.The-Creevey_djvu.txt",
+      "location": "Letter to Miss Ord, 14 Nov. 1829"
+    },
+    "verificationStatus": "checked",
+    "replyTo": "c4-creevey-flying",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "",
+    "engagement": {
+      "hearHears": 1737,
+      "reprints": 248
+    }
+  },
+  {
+    "id": "c4-southey-danger",
+    "accountId": "southey",
+    "date": "1829",
+    "datePrecision": "year",
+    "chapter": 4,
+    "kind": "post",
+    "text": "There is a fourth danger, the growth of your manufacturing system; and this is peculiarly your own. You have a great and increasing population, exposed at all times by the fluctuations of trade to suffer the severest privations in the midst of a rich and luxurious society…",
+    "type": "verified",
+    "source": {
+      "title": "Sir Thomas More: or, Colloquies on the Progress and Prospects of Society",
+      "author": "Robert Southey",
+      "year": 1829,
+      "url": "https://www.gutenberg.org/ebooks/4243",
+      "textUrl": "https://www.gutenberg.org/cache/epub/4243/pg4243.txt",
+      "location": "Colloquy on the dangers of the State"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Spoken by the ghost of Sir Thomas More in Southey's imagined dialogues.",
+    "engagement": {
+      "hearHears": 670,
+      "reprints": 95
+    }
+  },
+  {
+    "id": "c4-southey-mills",
+    "accountId": "southey",
+    "date": "1829",
+    "datePrecision": "year",
+    "chapter": 4,
+    "kind": "post",
+    "text": "…these edifices have all one character. Time will not mellow them; nature will neither clothe nor conceal them; and they will remain always as offensive to the eye as to the mind.",
+    "type": "verified",
+    "source": {
+      "title": "Sir Thomas More: or, Colloquies on the Progress and Prospects of Society (as quoted in Macaulay's review, Edinburgh Review, Jan. 1830)",
+      "author": "Robert Southey",
+      "year": 1829,
+      "url": "https://www.gutenberg.org/ebooks/2333",
+      "textUrl": "https://www.gutenberg.org/cache/epub/2333/pg2333.txt",
+      "location": "Quoted in Macaulay, 'Southey's Colloquies on Society'"
+    },
+    "verificationStatus": "checked",
+    "replyTo": "c4-southey-danger",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Southey contrasts the old cottages of the Lake District with the new manufacturing buildings. The abridged Gutenberg edition of the Colloquies leaves this passage out, so it was checked against Macaulay's quotation of it.",
+    "engagement": {
+      "hearHears": 843,
+      "reprints": 168
+    }
+  },
+  {
+    "id": "c4-macaulay-rosebushes",
+    "accountId": "macaulay",
+    "date": "1830-01",
+    "datePrecision": "month",
+    "chapter": 4,
+    "kind": "post",
+    "text": "Here is wisdom. Here are the principles on which nations are to be governed. Rose-bushes and poor-rates, rather than steam-engines and independence.",
+    "type": "verified",
+    "source": {
+      "title": "Southey's Colloquies on Society (Edinburgh Review, Jan. 1830), in Critical and Historical Essays",
+      "author": "T. B. Macaulay",
+      "year": 1830,
+      "url": "https://www.gutenberg.org/ebooks/2333",
+      "textUrl": "https://www.gutenberg.org/cache/epub/2333/pg2333.txt",
+      "location": "Review of Southey's Colloquies"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": "c4-southey-mills",
+    "thenVsNow": null,
+    "notes": "",
+    "engagement": {
+      "hearHears": 2042,
+      "reprints": 291
+    }
+  },
+  {
+    "id": "c4-macaulay-reply",
+    "accountId": "macaulay",
+    "date": "1830-01",
+    "datePrecision": "month",
+    "chapter": 4,
+    "kind": "post",
+    "text": "We rely on the natural tendency of the human intellect to truth, and on the natural tendency of society to improvement.",
+    "type": "verified",
+    "source": {
+      "title": "Southey's Colloquies on Society (Edinburgh Review, Jan. 1830), in Critical and Historical Essays",
+      "author": "T. B. Macaulay",
+      "year": 1830,
+      "url": "https://www.gutenberg.org/ebooks/2333",
+      "textUrl": "https://www.gutenberg.org/cache/epub/2333/pg2333.txt",
+      "location": "Review of Southey's Colloquies"
+    },
+    "verificationStatus": "checked",
+    "replyTo": "c4-southey-danger",
+    "quotes": null,
+    "thenVsNow": {
+      "text": "Today's techno-optimists make the same bet: new technology has always ended up raising living standards, so worry about this one is misplaced.",
+      "label": "Modern commentary (paraphrase)"
+    },
+    "notes": "Macaulay's review in the Edinburgh Review became a manifesto for Whig optimism about industrial progress.",
+    "engagement": {
+      "hearHears": 188,
+      "reprints": 31
+    }
+  },
+  {
+    "id": "c4-kemble-animal",
+    "accountId": "kemble",
+    "date": "1830-08-26",
+    "datePrecision": "day",
+    "chapter": 4,
+    "kind": "post",
+    "text": "This snorting little animal, which I felt rather inclined to pat, was then harnessed to our carriage, and, Mr. Stephenson having taken me on the bench of the engine with him, we started at about ten miles an hour.",
+    "type": "verified",
+    "source": {
+      "title": "Records of a Girlhood",
+      "author": "Frances Anne Kemble",
+      "year": 1878,
+      "url": "https://www.gutenberg.org/ebooks/16478",
+      "textUrl": "https://www.gutenberg.org/cache/epub/16478/pg16478.txt",
+      "location": "Letter dated Liverpool, 26 Aug. 1830"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "",
+    "engagement": {
+      "hearHears": 1368,
+      "reprints": 228
+    }
+  },
+  {
+    "id": "c4-kemble-air",
+    "accountId": "kemble",
+    "date": "1830-08-26",
+    "datePrecision": "day",
+    "chapter": 4,
+    "kind": "post",
+    "text": "…the motion is as smooth as possible, too. I could either have read or written; and as it was, I stood up, and with my bonnet off \"drank the air before me.\"",
+    "type": "verified",
+    "source": {
+      "title": "Records of a Girlhood",
+      "author": "Frances Anne Kemble",
+      "year": 1878,
+      "url": "https://www.gutenberg.org/ebooks/16478",
+      "textUrl": "https://www.gutenberg.org/cache/epub/16478/pg16478.txt",
+      "location": "Letter dated Liverpool, 26 Aug. 1830"
+    },
+    "verificationStatus": "checked",
+    "replyTo": "c4-kemble-animal",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "",
+    "engagement": {
+      "hearHears": 863,
+      "reprints": 287
+    }
+  },
+  {
+    "id": "c4-opening",
+    "accountId": "gazette",
+    "date": "1830-09-15",
+    "datePrecision": "day",
+    "chapter": 4,
+    "kind": "news",
+    "headline": "Liverpool & Manchester Railway opened. Mr Huskisson killed",
+    "text": "Eight engines drew the Duke of Wellington and some eight hundred guests from Liverpool. At Parkside, William Huskisson MP stepped onto the line while the engines took water and was struck by Rocket. He died that evening. The Duke met a hostile crowd at Manchester.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary of the opening day, 15 September 1830.",
+    "engagement": {
+      "hearHears": 955,
+      "reprints": 238
+    }
+  },
+  {
+    "id": "c4-kemble-huskisson",
+    "accountId": "kemble",
+    "date": "1830-09-20",
+    "datePrecision": "day",
+    "chapter": 4,
+    "kind": "post",
+    "text": "…presently a hundred voices were heard exclaiming that Mr. Huskisson was killed; the confusion that ensued is indescribable: the calling out from carriage to carriage to ascertain the truth, the contrary reports which were sent back to us, the hundred questions eagerly uttered at once, and the repeated and urgent demands for surgical assistance, created a sudden turmoil that was quite sickening.",
+    "type": "verified",
+    "source": {
+      "title": "Records of a Girlhood",
+      "author": "Frances Anne Kemble",
+      "year": 1878,
+      "url": "https://www.gutenberg.org/ebooks/16478",
+      "textUrl": "https://www.gutenberg.org/cache/epub/16478/pg16478.txt",
+      "location": "Letter dated Manchester, 20 Sept. 1830"
+    },
+    "verificationStatus": "checked",
+    "replyTo": "c4-opening",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "",
+    "engagement": {
+      "hearHears": 1985,
+      "reprints": 661
+    }
+  },
+  {
+    "id": "c4-navvy-opening",
+    "accountId": "navvy",
+    "date": "1830-09-15",
+    "datePrecision": "day",
+    "chapter": 4,
+    "kind": "post",
+    "text": "Stood at the cutting at Olive Mount to see them go by. We built the road and we cheered the engines. At Manchester they say the weavers hissed the Duke, and I don't blame them. It's not the engine they hate.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": "c4-opening",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. Wellington, then Prime Minister and opposed to reform, met a hostile crowd at Manchester on the opening day, with banners recalling Peterloo. Olive Mount cutting was one of the major works of the line.",
+    "engagement": {
+      "hearHears": 571,
+      "reprints": 190
+    }
+  },
+  {
+    "id": "c4-swing",
+    "accountId": "gazette",
+    "date": "1830-11",
+    "datePrecision": "month",
+    "chapter": 4,
+    "kind": "news",
+    "headline": "Threshing machines broken across the southern counties",
+    "text": "From Kent to Wiltshire, farm labourers, often signing as 'Captain Swing', are breaking threshing machines, burning ricks and demanding higher wages.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary of the Swing Riots of 1830. Nineteen men were hanged and about five hundred transported.",
+    "engagement": {
+      "hearHears": 3680,
+      "reprints": 1226
+    }
+  },
+  {
+    "id": "c5-carlyle-age",
+    "accountId": "carlyle",
+    "date": "1829-06",
+    "datePrecision": "month",
+    "chapter": 5,
+    "kind": "post",
+    "text": "Were we required to characterise this age of ours by any single epithet, we should be tempted to call it, not an Heroical, Devotional, Philosophical, or Moral Age, but, above all others, the Mechanical Age. It is the Age of Machinery, in every outward and inward sense of that word…",
+    "type": "verified",
+    "source": {
+      "title": "Signs of the Times (Edinburgh Review, 1829), in Critical and Miscellaneous Essays",
+      "author": "Thomas Carlyle",
+      "year": 1829,
+      "url": "https://archive.org/details/criticalmiscell01carl",
+      "textUrl": "https://archive.org/download/criticalmiscell01carl/criticalmiscell01carl_djvu.txt",
+      "location": "Signs of the Times"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": {
+      "text": "People now call this 'the age of AI' in the same spirit. Carlyle's point was that machinery shapes how a society thinks, not only how it works.",
+      "label": "Modern commentary (paraphrase)"
+    },
+    "notes": "",
+    "engagement": {
+      "hearHears": 1258,
+      "reprints": 419
+    }
+  },
+  {
+    "id": "c5-carlyle-shuttle",
+    "accountId": "carlyle",
+    "date": "1829-06",
+    "datePrecision": "month",
+    "chapter": 5,
+    "kind": "post",
+    "text": "Nothing is now done directly, or by hand; all is by rule and calculated contrivance. … On every hand, the living artisan is driven from his workshop, to make room for a speedier, inanimate one. The shuttle drops from the fingers of the weaver, and falls into iron fingers that ply it faster.",
+    "type": "verified",
+    "source": {
+      "title": "Signs of the Times (Edinburgh Review, 1829), in Critical and Miscellaneous Essays",
+      "author": "Thomas Carlyle",
+      "year": 1829,
+      "url": "https://archive.org/details/criticalmiscell01carl",
+      "textUrl": "https://archive.org/download/criticalmiscell01carl/criticalmiscell01carl_djvu.txt",
+      "location": "Signs of the Times"
+    },
+    "verificationStatus": "checked",
+    "replyTo": "c5-carlyle-age",
+    "quotes": null,
+    "thenVsNow": {
+      "text": "Writers, illustrators and translators now describe their work as falling 'into iron fingers that ply it faster', with software in the place of iron.",
+      "label": "Modern commentary (paraphrase)"
+    },
+    "notes": "",
+    "engagement": {
+      "hearHears": 1471,
+      "reprints": 294
+    }
+  },
+  {
+    "id": "c5-carlyle-head",
+    "accountId": "carlyle",
+    "date": "1829-06",
+    "datePrecision": "month",
+    "chapter": 5,
+    "kind": "post",
+    "text": "Men are grown mechanical in head and in heart, as well as in hand.",
+    "type": "verified",
+    "source": {
+      "title": "Signs of the Times (Edinburgh Review, 1829), in Critical and Miscellaneous Essays",
+      "author": "Thomas Carlyle",
+      "year": 1829,
+      "url": "https://archive.org/details/criticalmiscell01carl",
+      "textUrl": "https://archive.org/download/criticalmiscell01carl/criticalmiscell01carl_djvu.txt",
+      "location": "Signs of the Times"
+    },
+    "verificationStatus": "checked",
+    "replyTo": "c5-carlyle-shuttle",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "",
+    "engagement": {
+      "hearHears": 387,
+      "reprints": 96
+    }
+  },
+  {
+    "id": "c5-oastler-slavery",
+    "accountId": "oastler",
+    "date": "1830-10-16",
+    "datePrecision": "day",
+    "chapter": 5,
+    "kind": "post",
+    "text": "Thousands of our fellow-creatures and fellow-subjects, both male and female, the miserable inhabitants of a Yorkshire town… are this very moment existing in a state of slavery, more horrid than are the victims of that hellish system—'colonial slavery.'",
+    "type": "verified",
+    "source": {
+      "title": "The History of the Factory Movement, vol. I",
+      "author": "'Alfred' (Samuel Kydd)",
+      "year": 1830,
+      "url": "https://archive.org/details/historyoffactory01kydd",
+      "textUrl": "https://archive.org/download/historyoffactory01kydd/historyoffactory01kydd_djvu.txt",
+      "location": "Ch. VII, reprinting 'Yorkshire Slavery', Leeds Mercury, 16 Oct. 1830"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Oastler's letter, dated 29 September 1830, appeared in the Leeds Mercury during the campaign against colonial slavery. The town was Bradford.",
+    "engagement": {
+      "hearHears": 2612,
+      "reprints": 522
+    }
+  },
+  {
+    "id": "c5-lovett-nuwc",
+    "accountId": "lovett",
+    "date": "1831",
+    "datePrecision": "year",
+    "chapter": 5,
+    "kind": "post",
+    "text": "That every man of the age of twenty-one years, of sound mind, and not tainted by crime, has a right, either by himself or his representative, to a free voice in determining the nature of the laws…",
+    "type": "verified",
+    "source": {
+      "title": "Life and Struggles of William Lovett",
+      "author": "William Lovett",
+      "year": 1876,
+      "url": "https://archive.org/details/cu31924028036758",
+      "textUrl": "https://archive.org/download/cu31924028036758/cu31924028036758_djvu.txt",
+      "location": "Declaration of the National Union of the Working Classes"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Drawn up by James Watson and Lovett for the National Union of the Working Classes, during the Reform Bill agitation. Lovett reprinted it in his autobiography (1876).",
+    "engagement": {
+      "hearHears": 639,
+      "reprints": 127
+    }
+  },
+  {
+    "id": "c5-sadler",
+    "accountId": "gazette",
+    "date": "1832-03-16",
+    "datePrecision": "day",
+    "chapter": 5,
+    "kind": "news",
+    "headline": "Mr Sadler moves a Ten Hours Bill",
+    "text": "Michael Sadler MP has introduced a bill to limit the labour of children in mills and factories. A Select Committee under his chairmanship is to take evidence from operatives, overlookers and medical men.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary. The committee's evidence, published in 1832, shocked the public, though critics said Sadler chose witnesses to suit his case.",
+    "engagement": {
+      "hearHears": 2865,
+      "reprints": 955
+    }
+  },
+  {
+    "id": "c5-bentley-doffer",
+    "accountId": "bentley",
+    "date": "1832",
+    "datePrecision": "year",
+    "chapter": 5,
+    "kind": "post",
+    "text": "I began to work at Mr Busk's flax mill when I was six years old. I was then a little 'doffer.' In that mill we worked from five in the morning till nine at night, when they were 'throng'…",
+    "type": "verified",
+    "source": {
+      "title": "The History of the Factory Movement, vol. I",
+      "author": "'Alfred' (Samuel Kydd)",
+      "year": 1857,
+      "url": "https://archive.org/details/historyoffactory01kydd",
+      "textUrl": "https://archive.org/download/historyoffactory01kydd/historyoffactory01kydd_djvu.txt",
+      "location": "Ch. on the evidence before Sadler's Committee"
+    },
+    "verificationStatus": "needs-verification",
+    "replyTo": "c5-sadler",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "This matches Kydd's 1857 history word for word, but Kydd turned Bentley's question-and-answer evidence into first-person narrative. It has not yet been checked against the original 1832 Committee report (Parliamentary Papers 1831–32, vol. XV), so it is not counted as verified.",
+    "engagement": {
+      "hearHears": 476,
+      "reprints": 95
+    }
+  },
+  {
+    "id": "c5-bentley-strap",
+    "accountId": "bentley",
+    "date": "1832",
+    "datePrecision": "year",
+    "chapter": 5,
+    "kind": "post",
+    "text": "Those who were last in 'doffing' were constantly strapped—girls as well as boys. I have been strapped severely, and have been hurt by the strap excessively.",
+    "type": "verified",
+    "source": {
+      "title": "The History of the Factory Movement, vol. I",
+      "author": "'Alfred' (Samuel Kydd)",
+      "year": 1857,
+      "url": "https://archive.org/details/historyoffactory01kydd",
+      "textUrl": "https://archive.org/download/historyoffactory01kydd/historyoffactory01kydd_djvu.txt",
+      "location": "Ch. on the evidence before Sadler's Committee"
+    },
+    "verificationStatus": "needs-verification",
+    "replyTo": "c5-bentley-doffer",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Same caveat as above: Kydd's condensation of her evidence, not yet checked against the 1832 report.",
+    "engagement": {
+      "hearHears": 184,
+      "reprints": 46
+    }
+  },
+  {
+    "id": "c5-piecer-day",
+    "accountId": "piecer",
+    "date": "1832",
+    "datePrecision": "year",
+    "chapter": 5,
+    "kind": "post",
+    "text": "Up at half past four. Mother carries me the last bit when I'm too sleepy to walk. My work is to watch the threads on the mule and twist the broken ends together while the carriage runs back. The overlooker straps the last one in. A gentleman with a paper says I walk twenty mile a day doing it.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. It follows the evidence of 1832–33 on piecers' hours, beatings, and children carried to work half asleep. Ten Hours campaigners published estimates that piecers walked twenty miles or more a day. The figure was disputed.",
+    "engagement": {
+      "hearHears": 272,
+      "reprints": 54
+    }
+  },
+  {
+    "id": "c5-act",
+    "accountId": "gazette",
+    "date": "1833-08-29",
+    "datePrecision": "day",
+    "chapter": 5,
+    "kind": "news",
+    "headline": "Factory Act passed",
+    "text": "No child under nine may be employed in textile mills (silk excepted). Children of nine to thirteen are limited to nine hours a day, and young persons under eighteen to twelve. Four inspectors are appointed to enforce it.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary of the Factory Act 1833 (Althorp's Act).",
+    "engagement": {
+      "hearHears": 2431,
+      "reprints": 405
+    }
+  },
+  {
+    "id": "c5-oastler-act",
+    "accountId": "oastler",
+    "date": "1833-09",
+    "datePrecision": "month",
+    "chapter": 5,
+    "kind": "post",
+    "text": "Four inspectors for all the mills of the kingdom, and the Ten Hours Bill thrown out. The masters have their 'compromise'. The children have their straps. We go on.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": "c5-act",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed for a real person. Oastler and the Short Time Committees denounced the 1833 Act as inadequate, and campaigned on until the Ten Hours Act of 1847.",
+    "engagement": {
+      "hearHears": 578,
+      "reprints": 82
+    }
+  },
+  {
+    "id": "c5-tolpuddle",
+    "accountId": "gazette",
+    "date": "1834-03-19",
+    "datePrecision": "day",
+    "chapter": 5,
+    "kind": "news",
+    "headline": "Dorset labourers sentenced to transportation",
+    "text": "Six farm labourers of Tolpuddle who formed a friendly society have been sentenced to seven years' transportation for administering unlawful oaths.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary. The 'Tolpuddle Martyrs' were pardoned in 1836 after mass protest.",
+    "engagement": {
+      "hearHears": 3431,
+      "reprints": 571
+    }
+  },
+  {
+    "id": "c5-weaver-poorlaw",
+    "accountId": "weaver",
+    "date": "1834-08",
+    "datePrecision": "month",
+    "chapter": 5,
+    "kind": "post",
+    "text": "The new Poor Law says no relief for the able-bodied outside the workhouse. I am able-bodied. I earn six or seven shillings a week at the loom, working fourteen hours. So: the Bastille, or the loom?",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. The Poor Law Amendment Act 1834 aimed to end outdoor relief for the able-bodied, and workhouses were nicknamed 'Bastilles'. Witnesses to the 1834–35 Select Committee on Hand-loom Weavers reported weekly earnings of this order for long hours.",
+    "engagement": {
+      "hearHears": 237,
+      "reprints": 59
+    }
+  },
+  {
+    "id": "c5-ure-supersede",
+    "accountId": "ure",
+    "date": "1835",
+    "datePrecision": "year",
+    "chapter": 5,
+    "kind": "post",
+    "text": "It is, in fact, the constant aim and tendency of every improvement in machinery to supersede human labour altogether, or to diminish its cost, by substituting the industry of women and children for that of men; or that of ordinary labourers, for trained artisans.",
+    "type": "verified",
+    "source": {
+      "title": "The Philosophy of Manufactures",
+      "author": "Andrew Ure",
+      "year": 1835,
+      "url": "https://archive.org/details/philosophymanuf01uregoog",
+      "textUrl": "https://archive.org/download/philosophymanuf01uregoog/philosophymanuf01uregoog_djvu.txt",
+      "location": "Book I, ch. 1"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": {
+      "text": "Business cases for AI are often argued in Ure's terms: not only replacing labour, but swapping expensive expertise for cheaper, less-trained supervision of the machine.",
+      "label": "Modern commentary (paraphrase)"
+    },
+    "notes": "",
+    "engagement": {
+      "hearHears": 1226,
+      "reprints": 306
+    }
+  },
+  {
+    "id": "c5-weaver-ure",
+    "accountId": "weaver",
+    "date": "1835",
+    "datePrecision": "year",
+    "chapter": 5,
+    "kind": "post",
+    "text": "'Ordinary labourers, for trained artisans.' He writes it as if it were a compliment to the machine and not a sentence on us.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": "c5-ure-supersede",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. A reply in the spirit of operatives' published answers to factory apologists such as Ure.",
+    "engagement": {
+      "hearHears": 429,
+      "reprints": 85
+    }
+  },
+  {
+    "id": "c5-ure-docility",
+    "accountId": "ure",
+    "date": "1835",
+    "datePrecision": "year",
+    "chapter": 5,
+    "kind": "post",
+    "text": "…when capital enlists science in her service, the refractory hand of labour will always be taught docility.",
+    "type": "verified",
+    "source": {
+      "title": "The Philosophy of Manufactures",
+      "author": "Andrew Ure",
+      "year": 1835,
+      "url": "https://archive.org/details/philosophymanuf01uregoog",
+      "textUrl": "https://archive.org/download/philosophymanuf01uregoog/philosophymanuf01uregoog_djvu.txt",
+      "location": "Book III, 'Factory Operatives', on the self-acting mule"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": {
+      "text": "Critics of algorithmic management (automated scheduling, productivity scoring, AI monitoring of warehouse and delivery work) make Ure's point from the other side.",
+      "label": "Modern commentary (paraphrase)"
+    },
+    "notes": "Ure is explaining how the self-acting mule was developed partly to break spinners' strikes.",
+    "engagement": {
+      "hearHears": 777,
+      "reprints": 194
+    }
+  },
+  {
+    "id": "c5-ure-arkwright",
+    "accountId": "ure",
+    "date": "1835",
+    "datePrecision": "year",
+    "chapter": 5,
+    "kind": "post",
+    "text": "…in training human beings to renounce their desultory habits of work, and to identify themselves with the unvarying regularity of the complex automaton. To devise and administer a successful code of factory discipline, suited to the necessities of factory diligence, was the Herculean enterprise, the noble achievement of Arkwright.",
+    "type": "verified",
+    "source": {
+      "title": "The Philosophy of Manufactures",
+      "author": "Andrew Ure",
+      "year": 1835,
+      "url": "https://archive.org/details/philosophymanuf01uregoog",
+      "textUrl": "https://archive.org/download/philosophymanuf01uregoog/philosophymanuf01uregoog_djvu.txt",
+      "location": "Book I, ch. 1"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": "c1-ark-cromford",
+    "thenVsNow": null,
+    "notes": "",
+    "engagement": {
+      "hearHears": 1234,
+      "reprints": 246
+    }
+  },
+  {
+    "id": "c6-charter",
+    "accountId": "gazette",
+    "date": "1838-05-08",
+    "datePrecision": "day",
+    "chapter": 6,
+    "kind": "news",
+    "headline": "The People's Charter published",
+    "text": "The London Working Men's Association has published a draft bill with six points: a vote for every man of twenty-one, the secret ballot, no property qualification for MPs, payment of MPs, equal electoral districts, and annual parliaments.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary of the six points of the People's Charter.",
+    "engagement": {
+      "hearHears": 861,
+      "reprints": 172
+    }
+  },
+  {
+    "id": "c6-lovett-charter",
+    "accountId": "lovett",
+    "date": "1838-05-08",
+    "datePrecision": "day",
+    "chapter": 6,
+    "kind": "post",
+    "text": "We have drawn the Charter in plain words, so that every working man may understand it and no one can say we ask for more than our rights. Knowledge, sobriety and union will carry it. Pikes will not.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": "c6-charter",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed for a real person. Lovett drafted the Charter with help from Francis Place. He led the 'moral force' wing of Chartism and stressed education and temperance against Feargus O'Connor's 'physical force' rhetoric.",
+    "engagement": {
+      "hearHears": 234,
+      "reprints": 46
+    }
+  },
+  {
+    "id": "c6-dickens-blow",
+    "accountId": "dickens",
+    "date": "1838-12-29",
+    "datePrecision": "day",
+    "chapter": 6,
+    "kind": "post",
+    "text": "I went, some weeks ago, to Manchester, and saw the worst cotton mill. And then I saw the best. … I mean to strike the heaviest blow in my power for these unfortunate creatures…",
+    "type": "verified",
+    "source": {
+      "title": "Letter to Edward Fitzgerald, 29 Dec. 1838",
+      "author": "Charles Dickens",
+      "year": 1838,
+      "location": "Pilgrim Edition of the Letters, vol. I",
+      "url": "",
+      "textUrl": ""
+    },
+    "verificationStatus": "needs-verification",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "As commonly quoted. The letter does not appear in the 1880 collection checked here, so it has not been verified against a public-domain text.",
+    "engagement": {
+      "hearHears": 938,
+      "reprints": 134
+    }
+  },
+  {
+    "id": "c6-carlyle-chartism",
+    "accountId": "carlyle",
+    "date": "1839-12",
+    "datePrecision": "month",
+    "chapter": 6,
+    "kind": "post",
+    "text": "A feeling very generally exists that the condition and disposition of the Working Classes is a rather ominous matter at present; that something ought to be said, something ought to be done, in regard to it.",
+    "type": "verified",
+    "source": {
+      "title": "Chartism",
+      "author": "Thomas Carlyle",
+      "year": 1840,
+      "url": "https://archive.org/details/chartism00carluoft",
+      "textUrl": "https://archive.org/download/chartism00carluoft/chartism00carluoft_djvu.txt",
+      "location": "Ch. I, 'Condition-of-England Question'"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": "c6-charter",
+    "thenVsNow": null,
+    "notes": "Published December 1839, dated 1840.",
+    "engagement": {
+      "hearHears": 680,
+      "reprints": 97
+    }
+  },
+  {
+    "id": "c6-newport",
+    "accountId": "gazette",
+    "date": "1839-11-04",
+    "datePrecision": "day",
+    "chapter": 6,
+    "kind": "news",
+    "headline": "Chartist rising at Newport",
+    "text": "Several thousand Chartists, many of them colliers and ironworkers, marched on Newport, Monmouthshire. Soldiers at the Westgate Hotel fired on them; above twenty are killed. John Frost and other leaders are taken.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary. Frost, Williams and Jones were sentenced to death, commuted to transportation.",
+    "engagement": {
+      "hearHears": 1225,
+      "reprints": 306
+    }
+  },
+  {
+    "id": "c6-dickens-chimneys",
+    "accountId": "dickens",
+    "date": "1841",
+    "datePrecision": "year",
+    "chapter": 6,
+    "kind": "post",
+    "text": "On every side, and far as the eye could see into the heavy distance, tall chimneys, crowding on each other, and presenting that endless repetition of the same dull, ugly form, which is the horror of oppressive dreams, poured out their plague of smoke, obscured the light, and made foul the melancholy air.",
+    "type": "verified",
+    "source": {
+      "title": "The Old Curiosity Shop",
+      "author": "Charles Dickens",
+      "year": 1841,
+      "url": "https://www.gutenberg.org/ebooks/700",
+      "textUrl": "https://www.gutenberg.org/cache/epub/700/pg700.txt",
+      "location": "Ch. XLV"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Nell and her grandfather crossing the Black Country.",
+    "engagement": {
+      "hearHears": 975,
+      "reprints": 325
+    }
+  },
+  {
+    "id": "c6-dickens-engines",
+    "accountId": "dickens",
+    "date": "1841",
+    "datePrecision": "year",
+    "chapter": 6,
+    "kind": "post",
+    "text": "On mounds of ashes by the wayside, sheltered only by a few rough boards, or rotten pent-house roofs, strange engines spun and writhed like tortured creatures; clanking their iron chains, shrieking in their rapid whirl from time to time as though in torment unendurable, and making the ground tremble with their agonies.",
+    "type": "verified",
+    "source": {
+      "title": "The Old Curiosity Shop",
+      "author": "Charles Dickens",
+      "year": 1841,
+      "url": "https://www.gutenberg.org/ebooks/700",
+      "textUrl": "https://www.gutenberg.org/cache/epub/700/pg700.txt",
+      "location": "Ch. XLV"
+    },
+    "verificationStatus": "checked",
+    "replyTo": "c6-dickens-chimneys",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "",
+    "engagement": {
+      "hearHears": 1540,
+      "reprints": 308
+    }
+  },
+  {
+    "id": "c6-petition",
+    "accountId": "gazette",
+    "date": "1842-05-02",
+    "datePrecision": "day",
+    "chapter": 6,
+    "kind": "news",
+    "headline": "Monster petition carried to Westminster",
+    "text": "The second National Petition for the Charter, said to bear over three million signatures, was carried through London to the Commons. The House has refused to hear the petitioners by 287 votes to 49.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary. The petition was reported as 3,317,752 signatures and was rejected on 3 May 1842.",
+    "engagement": {
+      "hearHears": 1196,
+      "reprints": 199
+    }
+  },
+  {
+    "id": "c6-macaulay-charter",
+    "accountId": "macaulay",
+    "date": "1842-05-03",
+    "datePrecision": "day",
+    "chapter": 6,
+    "kind": "post",
+    "text": "My firm conviction is that, in our country, universal suffrage is incompatible, not with this or that form of government, but with all forms of government, and with everything for the sake of which forms of government exist; that it is incompatible with property, and that it is consequently incompatible with civilisation.",
+    "type": "verified",
+    "source": {
+      "title": "Speeches, in Miscellaneous Writings and Speeches, vol. IV",
+      "author": "T. B. Macaulay",
+      "year": 1842,
+      "url": "https://www.gutenberg.org/ebooks/2170",
+      "textUrl": "https://www.gutenberg.org/cache/epub/2170/pg2170.txt",
+      "location": "'The People's Charter', House of Commons, 3 May 1842"
+    },
+    "verificationStatus": "checked",
+    "replyTo": "c6-petition",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "",
+    "engagement": {
+      "hearHears": 2409,
+      "reprints": 481
+    }
+  },
+  {
+    "id": "c6-lovett-macaulay",
+    "accountId": "lovett",
+    "date": "1842-05-04",
+    "datePrecision": "day",
+    "chapter": 6,
+    "kind": "post",
+    "text": "Mr Macaulay says that a vote for working men is incompatible with civilisation. Three million of us signed. Most could write our names. Some of us have read his essays.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": "c6-macaulay-charter",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. Lovett, a self-educated cabinet-maker, campaigned for working-class education and literacy. He had broken with the leadership of the 1842 petition, so this is a plausible view, not a recorded one.",
+    "engagement": {
+      "hearHears": 745,
+      "reprints": 149
+    }
+  },
+  {
+    "id": "c6-plug",
+    "accountId": "gazette",
+    "date": "1842-08",
+    "datePrecision": "month",
+    "chapter": 6,
+    "kind": "news",
+    "headline": "Strikes spread through the manufacturing districts",
+    "text": "From Stalybridge and Ashton the turn-outs have spread across Lancashire, Yorkshire and the Potteries. Strikers draw the plugs from mill boilers to stop the engines. Some meetings demand the Charter.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary of the 'Plug Plot' general strike of August 1842.",
+    "engagement": {
+      "hearHears": 3714,
+      "reprints": 530
+    }
+  },
+  {
+    "id": "c6-weaver-1842",
+    "accountId": "weaver",
+    "date": "1842-08",
+    "datePrecision": "month",
+    "chapter": 6,
+    "kind": "post",
+    "text": "Half the mills in Bolton stopped or on short time, & the loom is worth nothing at all. They drew the plugs at our mill this morning. Nobody tried to stop them.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": "c6-plug",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. Bolton suffered severe unemployment in the 1841–42 depression, documented by local relief committees and Henry Ashworth's statistics.",
+    "engagement": {
+      "hearHears": 604,
+      "reprints": 86
+    }
+  },
+  {
+    "id": "c6-carlyle-inanition",
+    "accountId": "carlyle",
+    "date": "1843-04",
+    "datePrecision": "month",
+    "chapter": 6,
+    "kind": "post",
+    "text": "England is full of wealth, of multifarious produce, supply for human want in every kind; yet England is dying of inanition.",
+    "type": "verified",
+    "source": {
+      "title": "Past and Present",
+      "author": "Thomas Carlyle",
+      "year": 1843,
+      "url": "https://www.gutenberg.org/ebooks/13534",
+      "textUrl": "https://www.gutenberg.org/cache/epub/13534/pg13534.txt",
+      "location": "Book I, ch. 1, 'Midas'"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": {
+      "text": "People now ask the same of the AI boom: record productivity and profits, and yet many workers feel poorer and less secure.",
+      "label": "Modern commentary (paraphrase)"
+    },
+    "notes": "",
+    "engagement": {
+      "hearHears": 1246,
+      "reprints": 178
+    }
+  },
+  {
+    "id": "c6-carlyle-nexus",
+    "accountId": "carlyle",
+    "date": "1843-04",
+    "datePrecision": "month",
+    "chapter": 6,
+    "kind": "post",
+    "text": "Supply-and-demand is not the one Law of Nature; Cash-payment is not the sole nexus of man with man,—how far from it!",
+    "type": "verified",
+    "source": {
+      "title": "Past and Present",
+      "author": "Thomas Carlyle",
+      "year": 1843,
+      "url": "https://www.gutenberg.org/ebooks/13534",
+      "textUrl": "https://www.gutenberg.org/cache/epub/13534/pg13534.txt",
+      "location": "Book III, ch. 9"
+    },
+    "verificationStatus": "checked",
+    "replyTo": "c6-carlyle-inanition",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "",
+    "engagement": {
+      "hearHears": 2366,
+      "reprints": 591
+    }
+  },
+  {
+    "id": "c6-ebb-children",
+    "accountId": "ebb",
+    "date": "1843-08",
+    "datePrecision": "month",
+    "chapter": 6,
+    "kind": "post",
+    "text": "Do ye hear the children weeping, O my brothers,\nEre the sorrow comes with years?\nThey are leaning their young heads against their mothers.\nAnd that cannot stop their tears.",
+    "type": "verified",
+    "source": {
+      "title": "The Cry of the Children, in Poetical Works, vol. II",
+      "author": "Elizabeth Barrett Browning",
+      "year": 1843,
+      "url": "https://www.gutenberg.org/ebooks/33363",
+      "textUrl": "https://www.gutenberg.org/cache/epub/33363/pg33363.txt",
+      "location": "The Cry of the Children, stanza I"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Published in Blackwood's Magazine, August 1843, after R. H. Horne's report for the Children's Employment Commission.",
+    "engagement": {
+      "hearHears": 824,
+      "reprints": 117
+    }
+  },
+  {
+    "id": "c6-punch-shirt",
+    "accountId": "punch",
+    "date": "1843-12-16",
+    "datePrecision": "day",
+    "chapter": 6,
+    "kind": "post",
+    "text": "With fingers weary and worn,\nWith eyelids heavy and red,\nA woman sat, in unwomanly rags,\nPlying her needle and thread—\nStitch! stitch! stitch!\nIn poverty, hunger, and dirt…",
+    "type": "verified",
+    "source": {
+      "title": "The Song of the Shirt (Punch, 16 Dec. 1843), in The Poetical Works of Thomas Hood",
+      "author": "Thomas Hood",
+      "year": 1843,
+      "url": "https://www.gutenberg.org/ebooks/15652",
+      "textUrl": "https://www.gutenberg.org/cache/epub/15652/pg15652.txt",
+      "location": "The Song of the Shirt"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": {
+      "text": "The low-paid people behind the technology, such as data labellers and content moderators, have been called the seamstresses of our time.",
+      "label": "Modern commentary (paraphrase)"
+    },
+    "notes": "Published anonymously in Punch's Christmas number. The author was Thomas Hood. It reportedly tripled the paper's sales.",
+    "engagement": {
+      "hearHears": 611,
+      "reprints": 122
+    }
+  },
+  {
+    "id": "c6-engels-begins",
+    "accountId": "engels",
+    "date": "1845",
+    "datePrecision": "year",
+    "chapter": 6,
+    "kind": "post",
+    "text": "The history of the proletariat in England begins with the second half of the last century, with the invention of the steam-engine and of machinery for working cotton. These inventions gave rise, as is well known, to an industrial revolution, a revolution which altered the whole civil society…",
+    "type": "verified",
+    "source": {
+      "title": "The Condition of the Working-Class in England in 1844 (trans. F. K. Wischnewetzky, 1887)",
+      "author": "Friedrich Engels",
+      "year": 1845,
+      "url": "https://www.gutenberg.org/ebooks/17306",
+      "textUrl": "https://www.gutenberg.org/cache/epub/17306/pg17306.txt",
+      "location": "Introduction"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Written in German (Leipzig, 1845). English translation by Florence Kelley Wischnewetzky, 1887.",
+    "engagement": {
+      "hearHears": 1114,
+      "reprints": 371
+    }
+  },
+  {
+    "id": "c6-engels-manchester",
+    "accountId": "engels",
+    "date": "1845",
+    "datePrecision": "year",
+    "chapter": 6,
+    "kind": "post",
+    "text": "The town itself is peculiarly built, so that a person may live in it for years, and go in and out daily without coming into contact with a working-people's quarter or even with workers, that is, so long as he confines himself to his business or to pleasure walks.",
+    "type": "verified",
+    "source": {
+      "title": "The Condition of the Working-Class in England in 1844 (trans. F. K. Wischnewetzky, 1887)",
+      "author": "Friedrich Engels",
+      "year": 1845,
+      "url": "https://www.gutenberg.org/ebooks/17306",
+      "textUrl": "https://www.gutenberg.org/cache/epub/17306/pg17306.txt",
+      "location": "'The Great Towns', on Manchester"
+    },
+    "verificationStatus": "checked",
+    "replyTo": "c6-engels-begins",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "",
+    "engagement": {
+      "hearHears": 573,
+      "reprints": 114
+    }
+  },
+  {
+    "id": "c6-engels-machinery",
+    "accountId": "engels",
+    "date": "1845",
+    "datePrecision": "year",
+    "chapter": 6,
+    "kind": "post",
+    "text": "Every improvement in machinery throws workers out of employment, and the greater the advance, the more numerous the unemployed; each great improvement produces, therefore, upon a number of workers the effect of a commercial crisis, creates want, wretchedness, and crime.",
+    "type": "verified",
+    "source": {
+      "title": "The Condition of the Working-Class in England in 1844 (trans. F. K. Wischnewetzky, 1887)",
+      "author": "Friedrich Engels",
+      "year": 1845,
+      "url": "https://www.gutenberg.org/ebooks/17306",
+      "textUrl": "https://www.gutenberg.org/cache/epub/17306/pg17306.txt",
+      "location": "'Competition'"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": "c3-ricardo-prejudice",
+    "thenVsNow": {
+      "text": "Forecasts of AI job losses come in Engels's form (each advance a small crisis for the people it displaces) and in the opposite form: jobs change, overall employment does not fall.",
+      "label": "Modern commentary (paraphrase)"
+    },
+    "notes": "",
+    "engagement": {
+      "hearHears": 2680,
+      "reprints": 382
+    }
+  },
+  {
+    "id": "c6-engels-murder",
+    "accountId": "engels",
+    "date": "1845",
+    "datePrecision": "year",
+    "chapter": 6,
+    "kind": "post",
+    "text": "The English working-men call this \"social murder,\" and accuse our whole society of perpetrating this crime perpetually. Are they wrong?",
+    "type": "verified",
+    "source": {
+      "title": "The Condition of the Working-Class in England in 1844 (trans. F. K. Wischnewetzky, 1887)",
+      "author": "Friedrich Engels",
+      "year": 1845,
+      "url": "https://www.gutenberg.org/ebooks/17306",
+      "textUrl": "https://www.gutenberg.org/cache/epub/17306/pg17306.txt",
+      "location": "'Results'"
+    },
+    "verificationStatus": "checked",
+    "replyTo": "c6-engels-machinery",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "",
+    "engagement": {
+      "hearHears": 1481,
+      "reprints": 296
+    }
+  },
+  {
+    "id": "c6-disraeli-nations",
+    "accountId": "disraeli",
+    "date": "1845-05",
+    "datePrecision": "month",
+    "chapter": 6,
+    "kind": "post",
+    "text": "Two nations; between whom there is no intercourse and no sympathy; who are as ignorant of each other's habits, thoughts, and feelings, as if they were dwellers in different zones, or inhabitants of different planets…",
+    "type": "verified",
+    "source": {
+      "title": "Sybil, or The Two Nations",
+      "author": "Benjamin Disraeli",
+      "year": 1845,
+      "url": "https://www.gutenberg.org/ebooks/3760",
+      "textUrl": "https://www.gutenberg.org/cache/epub/3760/pg3760.txt",
+      "location": "Book II, ch. 5"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Spoken by the radical Stephen Morley, who goes on: 'THE RICH AND THE POOR.'",
+    "engagement": {
+      "hearHears": 552,
+      "reprints": 78
+    }
+  },
+  {
+    "id": "c6-macaulay-tenhours",
+    "accountId": "macaulay",
+    "date": "1846-05-22",
+    "datePrecision": "day",
+    "chapter": 6,
+    "kind": "post",
+    "text": "Never will I believe that what makes a population stronger, and healthier, and wiser, and better, can ultimately make it poorer.",
+    "type": "verified",
+    "source": {
+      "title": "Speeches, in Miscellaneous Writings and Speeches, vol. IV",
+      "author": "T. B. Macaulay",
+      "year": 1842,
+      "url": "https://www.gutenberg.org/ebooks/2170",
+      "textUrl": "https://www.gutenberg.org/cache/epub/2170/pg2170.txt",
+      "location": "'The Ten Hours Bill', House of Commons, 22 May 1846"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": "c5-ure-supersede",
+    "thenVsNow": {
+      "text": "The same argument is made for sharing AI productivity gains as shorter hours (the four-day week) instead of as layoffs.",
+      "label": "Modern commentary (paraphrase)"
+    },
+    "notes": "The optimist of 1830 argues that limiting factory hours would not ruin British industry.",
+    "engagement": {
+      "hearHears": 2266,
+      "reprints": 453
+    }
+  },
+  {
+    "id": "c6-tenhours",
+    "accountId": "gazette",
+    "date": "1847-06",
+    "datePrecision": "month",
+    "chapter": 6,
+    "kind": "news",
+    "headline": "Ten Hours Act becomes law",
+    "text": "Mr Fielden's Act limits women and young persons in textile mills to ten hours a day from next May. The Short Time Committees are rejoicing.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary of the Factories Act 1847. Mill-owners evaded it with 'relay' shifts until the 1850 Act closed the gap.",
+    "engagement": {
+      "hearHears": 1575,
+      "reprints": 393
+    }
+  },
+  {
+    "id": "c6-piecer-tenhours",
+    "accountId": "piecer",
+    "date": "1847-06",
+    "datePrecision": "month",
+    "chapter": 6,
+    "kind": "post",
+    "text": "I'm seventeen now and a piecer still. The Ten Hours Bill is passed and Mother cried. The overlooker says the masters will work us in relays and get round it before the year's out.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": "c6-tenhours",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. The same composite piecer, fifteen years on. The relay system used to evade the 1847 Act is well documented in factory inspectors' reports.",
+    "engagement": {
+      "hearHears": 141,
+      "reprints": 20
+    }
+  },
+  {
+    "id": "c6-kennington",
+    "accountId": "gazette",
+    "date": "1848-04-10",
+    "datePrecision": "day",
+    "chapter": 6,
+    "kind": "news",
+    "headline": "Chartists meet at Kennington Common",
+    "text": "In a year of revolutions on the Continent, a great Chartist meeting gathered on Kennington Common to escort a third petition to Parliament. The government swore in many thousands of special constables and posted troops; the procession was forbidden, and the petition went by cab.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary. The petition's claimed five million signatures were found to be far fewer and to include forgeries, which badly damaged the movement.",
+    "engagement": {
+      "hearHears": 1470,
+      "reprints": 490
+    }
+  },
+  {
+    "id": "c6-gaskell-preface",
+    "accountId": "gaskell",
+    "date": "1848-10",
+    "datePrecision": "month",
+    "chapter": 6,
+    "kind": "post",
+    "text": "I had always felt a deep sympathy with the care-worn men, who looked as if doomed to struggle through their lives in strange alternations between work and want; tossed to and fro by circumstances, apparently in even a greater degree than other men.",
+    "type": "verified",
+    "source": {
+      "title": "Mary Barton: A Tale of Manchester Life",
+      "author": "Elizabeth Gaskell",
+      "year": 1848,
+      "url": "https://www.gutenberg.org/ebooks/2153",
+      "textUrl": "https://www.gutenberg.org/cache/epub/2153/pg2153.txt",
+      "location": "Preface"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "",
+    "engagement": {
+      "hearHears": 592,
+      "reprints": 118
+    }
+  },
+  {
+    "id": "c6-gaskell-barton",
+    "accountId": "gaskell",
+    "date": "1848-10",
+    "datePrecision": "month",
+    "chapter": 6,
+    "kind": "post",
+    "text": "Don't think to come over me with th' old tale, that the rich know nothing of the trials of the poor. I say, if they don't know, they ought to know. We're their slaves as long as we can work; we pile up their fortunes with the sweat of our brows…",
+    "type": "verified",
+    "source": {
+      "title": "Mary Barton: A Tale of Manchester Life",
+      "author": "Elizabeth Gaskell",
+      "year": 1848,
+      "url": "https://www.gutenberg.org/ebooks/2153",
+      "textUrl": "https://www.gutenberg.org/cache/epub/2153/pg2153.txt",
+      "location": "Ch. I"
+    },
+    "verificationStatus": "checked",
+    "replyTo": "c6-gaskell-preface",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Spoken by the novel's John Barton, a Manchester mill-worker and Chartist.",
+    "engagement": {
+      "hearHears": 156,
+      "reprints": 31
+    }
+  },
+  {
+    "id": "c7-albert-transition",
+    "accountId": "albert",
+    "date": "1850-03-21",
+    "datePrecision": "day",
+    "chapter": 7,
+    "kind": "post",
+    "text": "Nobody, however, who has paid any attention to the peculiar features of our present era, will doubt for a moment that we are living at a period of most wonderful transition, which tends rapidly to accomplish that great end, to which, indeed, all history points—the realization of the unity of mankind.",
+    "type": "verified",
+    "source": {
+      "title": "Speech at the Mansion House, 21 March 1850, in The Principal Speeches and Addresses of H.R.H. the Prince Consort",
+      "author": "Prince Albert",
+      "year": 1850,
+      "url": "https://www.gutenberg.org/ebooks/61205",
+      "textUrl": "https://www.gutenberg.org/cache/epub/61205/pg61205.txt",
+      "location": "Speech at the Mansion House banquet for the Exhibition"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "",
+    "engagement": {
+      "hearHears": 2068,
+      "reprints": 689
+    }
+  },
+  {
+    "id": "c7-albert-distances",
+    "accountId": "albert",
+    "date": "1850-03-21",
+    "datePrecision": "day",
+    "chapter": 7,
+    "kind": "post",
+    "text": "The distances which separated the different nations and parts of the globe are rapidly vanishing before the achievements of modern invention, and we can traverse them with incredible ease…",
+    "type": "verified",
+    "source": {
+      "title": "Speech at the Mansion House, 21 March 1850, in The Principal Speeches and Addresses of H.R.H. the Prince Consort",
+      "author": "Prince Albert",
+      "year": 1850,
+      "url": "https://www.gutenberg.org/ebooks/61205",
+      "textUrl": "https://www.gutenberg.org/cache/epub/61205/pg61205.txt",
+      "location": "Speech at the Mansion House"
+    },
+    "verificationStatus": "checked",
+    "replyTo": "c7-albert-transition",
+    "quotes": null,
+    "thenVsNow": {
+      "text": "Technology leaders now describe AI in Albert's tone, as a transition that will bring humanity together and put knowledge within everyone's reach.",
+      "label": "Modern commentary (paraphrase)"
+    },
+    "notes": "",
+    "engagement": {
+      "hearHears": 1034,
+      "reprints": 147
+    }
+  },
+  {
+    "id": "c7-opening",
+    "accountId": "gazette",
+    "date": "1851-05-01",
+    "datePrecision": "day",
+    "chapter": 7,
+    "kind": "news",
+    "headline": "The Great Exhibition opened by the Queen",
+    "text": "Mr Paxton's palace of glass in Hyde Park, a third of a mile long, has opened to season-ticket holders. Exhibits from every nation, including steam-hammers, power-looms, locomotives and the Koh-i-Noor.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary. Some six million visits were made before it closed in October.",
+    "engagement": {
+      "hearHears": 2213,
+      "reprints": 368
+    }
+  },
+  {
+    "id": "c7-victoria",
+    "accountId": "victoria",
+    "date": "1851-05-03",
+    "datePrecision": "day",
+    "chapter": 7,
+    "kind": "post",
+    "text": "I wish you could have witnessed the 1st May 1851, the greatest day in our history, the most beautiful and imposing and touching spectacle ever seen, and the triumph of my beloved Albert. Truly it was astonishing, a fairy scene.",
+    "type": "verified",
+    "source": {
+      "title": "Letter to the King of the Belgians, 3 May 1851, in The Letters of Queen Victoria, vol. II",
+      "author": "Queen Victoria",
+      "year": 1907,
+      "url": "https://www.gutenberg.org/ebooks/24780",
+      "textUrl": "https://www.gutenberg.org/cache/epub/24780/pg24780.txt",
+      "location": "Letter to King Leopold, Buckingham Palace, 3 May 1851"
+    },
+    "verificationStatus": "checked",
+    "replyTo": "c7-opening",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "",
+    "engagement": {
+      "hearHears": 1866,
+      "reprints": 266
+    }
+  },
+  {
+    "id": "c7-bronte",
+    "accountId": "bronte",
+    "date": "1851-06",
+    "datePrecision": "month",
+    "chapter": 7,
+    "kind": "post",
+    "text": "On Friday, I went to the Crystal Palace; it is a marvellous, stirring, bewildering sight—a mixture of a genii palace, and a mighty bazaar, but it is not much in my way…",
+    "type": "verified",
+    "source": {
+      "title": "Letter of June 1851, in Elizabeth Gaskell, The Life of Charlotte Brontë, vol. II",
+      "author": "Charlotte Brontë",
+      "year": 1857,
+      "url": "https://www.gutenberg.org/ebooks/1700",
+      "textUrl": "https://www.gutenberg.org/cache/epub/1700/pg1700.txt",
+      "location": "Letter quoted in Gaskell's Life, vol. II, ch. 11"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": "c7-victoria",
+    "thenVsNow": {
+      "text": "Some visitors to today's big technology showcases come away like Brontë: dazzled, overwhelmed, and not sure any of it is for them.",
+      "label": "Modern commentary (paraphrase)"
+    },
+    "notes": "Brontë went five times and later wrote that she would rather not be pressed on 'the Crystal Palace'.",
+    "engagement": {
+      "hearHears": 2279,
+      "reprints": 379
+    }
+  },
+  {
+    "id": "c7-mayhew-shilling",
+    "accountId": "mayhew",
+    "date": "1851",
+    "datePrecision": "year",
+    "chapter": 7,
+    "kind": "post",
+    "text": "…the machinery, which has been from the first the grand focus of attraction, is, on the \"shilling days,\" the most peculiar sight of the whole. Here every other man you rub against is habited in a corduroy jacket, or a blouse, or leathern gaiters; and round every object more wonderful than the rest, the people press, two and three deep, with their heads stretched out, watching intently the operations of the moving mechanism.",
+    "type": "verified",
+    "source": {
+      "title": "1851: or, The Adventures of Mr. and Mrs. Sandboys",
+      "author": "Henry Mayhew & George Cruikshank",
+      "year": 1851,
+      "url": "https://www.gutenberg.org/ebooks/65234",
+      "textUrl": "https://www.gutenberg.org/cache/epub/65234/pg65234.txt",
+      "location": "Ch. on the Exhibition"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "From a comic novel, but the description of the 'shilling days' (cheap admission from late May) matches other accounts of working-class visitors.",
+    "engagement": {
+      "hearHears": 2378,
+      "reprints": 396
+    }
+  },
+  {
+    "id": "c7-weaver-visit",
+    "accountId": "weaver",
+    "date": "1851-07",
+    "datePrecision": "month",
+    "chapter": 7,
+    "kind": "post",
+    "text": "Came up by excursion train with the Bolton Mechanics' Institute party, a shilling at the door. Stood an hour by a power-loom weaving faster than my hands ever did. A gentleman asked if I understood its workings. I told him I understood them very well.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": "c7-mayhew-shilling",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. Cheap excursion trains, many organised by mechanics' institutes, employers or Thomas Cook, brought northern working people to the Exhibition. Machinery in motion was among the most popular sections.",
+    "engagement": {
+      "hearHears": 552,
+      "reprints": 110
+    }
+  },
+  {
+    "id": "c7-punch-name",
+    "accountId": "punch",
+    "date": "1850-11",
+    "datePrecision": "month",
+    "chapter": 7,
+    "kind": "post",
+    "text": "Mr Paxton's great glass-house in the Park wants a name. Mr Punch proposes THE CRYSTAL PALACE, and expects to be thanked.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. The name 'Crystal Palace' is widely credited to Douglas Jerrold writing in Punch in late 1850. That attribution has not been verified here.",
+    "engagement": {
+      "hearHears": 89,
+      "reprints": 14
+    }
+  },
+  {
+    "id": "c7-navvy-palace",
+    "accountId": "navvy",
+    "date": "1851-01",
+    "datePrecision": "month",
+    "chapter": 7,
+    "kind": "post",
+    "text": "Two thousand of us on the Park job. A building a third of a mile long, all iron and glass, up in months. They'll put the machines inside and charge a shilling to look at them. We built it for less.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. The Crystal Palace was put up in about five months using prefabricated parts, with a workforce reported at around two thousand at its peak.",
+    "engagement": {
+      "hearHears": 656,
+      "reprints": 93
+    }
+  },
+  {
+    "id": "c7-closes",
+    "accountId": "gazette",
+    "date": "1851-10-15",
+    "datePrecision": "day",
+    "chapter": 7,
+    "kind": "news",
+    "headline": "Exhibition closes in profit",
+    "text": "After some six million visits, the Exhibition has closed. The surplus, near £186,000, is to buy land in South Kensington for museums and colleges of science and art.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Editorial summary. The surplus funded what became the South Kensington museums.",
+    "engagement": {
+      "hearHears": 2804,
+      "reprints": 400
+    }
+  },
+  {
+    "id": "c8-ruskin",
+    "accountId": "ruskin",
+    "date": "1853-07",
+    "datePrecision": "month",
+    "chapter": 8,
+    "kind": "post",
+    "text": "It is not, truly speaking, the labor that is divided; but the men:—Divided into mere segments of men—broken into small fragments and crumbs of life; so that all the little piece of intelligence that is left in a man is not enough to make a pin, or a nail, but exhausts itself in making the point of a pin, or the head of a nail.",
+    "type": "verified",
+    "source": {
+      "title": "The Stones of Venice, vol. II, 'The Nature of Gothic'",
+      "author": "John Ruskin",
+      "year": 1853,
+      "url": "https://www.gutenberg.org/ebooks/30755",
+      "textUrl": "https://www.gutenberg.org/cache/epub/30755/pg30755.txt",
+      "location": "Ch. VI, 'The Nature of Gothic'"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": "c1-smith-pins",
+    "thenVsNow": {
+      "text": "Writers on AI-era work raise Ruskin's worry again: that jobs become fragments of machine-supervision tasks with nothing left for a person to own.",
+      "label": "Modern commentary (paraphrase)"
+    },
+    "notes": "The checked edition uses American spelling ('labor').",
+    "engagement": {
+      "hearHears": 2543,
+      "reprints": 635
+    }
+  },
+  {
+    "id": "c8-coketown",
+    "accountId": "dickens",
+    "date": "1854-04",
+    "datePrecision": "month",
+    "chapter": 8,
+    "kind": "post",
+    "text": "It was a town of red brick, or of brick that would have been red if the smoke and ashes had allowed it; but as matters stood, it was a town of unnatural red and black like the painted face of a savage. It was a town of machinery and tall chimneys, out of which interminable serpents of smoke trailed themselves for ever and ever, and never got uncoiled.",
+    "type": "verified",
+    "source": {
+      "title": "Hard Times",
+      "author": "Charles Dickens",
+      "year": 1854,
+      "url": "https://www.gutenberg.org/ebooks/786",
+      "textUrl": "https://www.gutenberg.org/cache/epub/786/pg786.txt",
+      "location": "Book I, ch. 5, 'The Key-note'"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "'Coketown' is commonly read as based on Preston, which Dickens visited during the 1854 strike.",
+    "engagement": {
+      "hearHears": 2652,
+      "reprints": 884
+    }
+  },
+  {
+    "id": "c8-facts",
+    "accountId": "dickens",
+    "date": "1854-04",
+    "datePrecision": "month",
+    "chapter": 8,
+    "kind": "post",
+    "text": "Now, what I want is, Facts. Teach these boys and girls nothing but Facts. Facts alone are wanted in life.",
+    "type": "verified",
+    "source": {
+      "title": "Hard Times",
+      "author": "Charles Dickens",
+      "year": 1854,
+      "url": "https://www.gutenberg.org/ebooks/786",
+      "textUrl": "https://www.gutenberg.org/cache/epub/786/pg786.txt",
+      "location": "Book I, ch. 1"
+    },
+    "verificationStatus": "checked",
+    "replyTo": "c8-coketown",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Spoken by Thomas Gradgrind, Dickens's satire of utilitarian education.",
+    "engagement": {
+      "hearHears": 998,
+      "reprints": 249
+    }
+  },
+  {
+    "id": "c8-selfhelp",
+    "accountId": "smiles",
+    "date": "1859",
+    "datePrecision": "year",
+    "chapter": 8,
+    "kind": "post",
+    "text": "\"Heaven helps those who help themselves\" is a well-tried maxim, embodying in a small compass the results of vast human experience. … Help from without is often enfeebling in its effects, but help from within invariably invigorates.",
+    "type": "verified",
+    "source": {
+      "title": "Self-Help; with Illustrations of Character and Conduct",
+      "author": "Samuel Smiles",
+      "year": 1859,
+      "url": "https://www.gutenberg.org/ebooks/935",
+      "textUrl": "https://www.gutenberg.org/cache/epub/935/pg935.txt",
+      "location": "Ch. I"
+    },
+    "verificationStatus": "checked",
+    "replyTo": null,
+    "quotes": null,
+    "thenVsNow": {
+      "text": "Today's equivalent is 'reskill': learn the new tools and you will be fine. Critics answer, as Smiles's critics did, that individual effort cannot outrun structural change.",
+      "label": "Modern commentary (paraphrase)"
+    },
+    "notes": "",
+    "engagement": {
+      "hearHears": 2536,
+      "reprints": 362
+    }
+  },
+  {
+    "id": "c8-weaver-selfhelp",
+    "accountId": "weaver",
+    "date": "1859",
+    "datePrecision": "year",
+    "chapter": 8,
+    "kind": "post",
+    "text": "Mr Smiles says Heaven helps those who help themselves. I helped myself at the loom for forty years. Heaven was busy elsewhere.",
+    "type": "reconstructed",
+    "source": null,
+    "verificationStatus": "n/a",
+    "replyTo": "c8-selfhelp",
+    "quotes": null,
+    "thenVsNow": null,
+    "notes": "Reconstructed. Hand-loom weaving in cotton had largely disappeared by the late 1850s. Older weavers who could not move into the mills often ended their lives on poor relief, as Poor Law records show.",
+    "engagement": {
+      "hearHears": 325,
+      "reprints": 108
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Early machines & the factory system",
+    "range": "1760s–1800",
+    "intro": "Spinning jennies, water frames and steam engines. Arkwright builds the first great mills at Cromford; Boulton and Watt sell power by the horse."
+  },
+  {
+    "id": 2,
+    "title": "War, hunger & the Luddites",
+    "range": "1801–1816",
+    "intro": "War with France closes markets and raises the price of bread. In Nottinghamshire, Yorkshire and Lancashire, workers break the machines they blame, and Parliament makes frame-breaking a capital crime."
+  },
+  {
+    "id": 3,
+    "title": "Peterloo & unrest",
+    "range": "1817–1824",
+    "intro": "A peaceful reform meeting at St Peter's Field, Manchester, is charged by yeomanry. An economist publicly changes his mind about machinery."
+  },
+  {
+    "id": 4,
+    "title": "The railway age begins",
+    "range": "1825–1830",
+    "intro": "Stockton & Darlington, the Rainhill Trials, and the opening of the Liverpool & Manchester Railway, with its first famous casualty. Poets and reviewers argue over whether any of this is progress."
+  },
+  {
+    "id": 5,
+    "title": "Factories under scrutiny",
+    "range": "1829–1837",
+    "intro": "Carlyle names the Mechanical Age. Oastler compares the mills to slavery, Sadler's Committee takes evidence from factory children, and the Factory Act of 1833 is passed."
+  },
+  {
+    "id": 6,
+    "title": "Chartism & the hungry forties",
+    "range": "1838–1848",
+    "intro": "The People's Charter, mass petitions, strikes and depression. Novelists, poets and a young German clerk describe the condition of England."
+  },
+  {
+    "id": 7,
+    "title": "The Great Exhibition",
+    "range": "1849–1851",
+    "intro": "A palace of glass in Hyde Park displays the works of industry of all nations. Six million visits; on shilling days, the working people come to look at the machines."
+  },
+  {
+    "id": 8,
+    "title": "Afterword: the 1850s",
+    "range": "1852–1859",
+    "intro": "Looking back on the age. Coketown, the division of men, and the gospel of self-help."
+  }
+]
